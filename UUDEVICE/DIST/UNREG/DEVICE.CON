@@ -1,0 +1,2428 @@
+Device #1.    TransMat Platform                (6) Retail Value: 65000
+This device creates a Platform that allows Matter Transmission of your
+Ship to another preset Sector. That Sector must also have a TransMat.
+The TransMat uses Nspace (not Hyperspace) so is not effected by Warp
+Shielding, and is a free trip.
+A popular item for movement within personal Territories.
+Device #2.    Planetary Cargo Shuttle          (6) Retail Value: 23540
+landing on a planet just to drop off cargo is a waste of time and
+fuel. This shuttle will transport all your cargo to the planet below.
+As the shuttle is totally unarmed, even planets that are not yours will 
+allow it to land.
+Can greatly speed up planet building.
+Device #3.    Speed Dock                       (6) Retail Value: 6000
+This device accesses the ports priority docking system. This gives your
+ship priority status over local vessels and uses the port's Tractor Beam
+Docking System to dock you, thus time and fuel is spared.
+Device #4.    Speed Landing                    (6) Retail Value: 7850
+This device accesses the planets priority docking system. This gives your
+ship priority status over local vessels and uses the planet's Tractor
+Beam docking system to dock you, thus time and fuel is spared.
+Device #5.    Galvanic 'Bread Crumbs'          (6) Retail Value: 20000
+This device leaves a Galvanic Pulse trail as you Warp. This trail doesn't
+last long and would be impossible for another Ship to trace. However this
+device can also read those tracings to report to you the Sector Path back
+to your originating Sector. 
+Warning: This device will report the trail you took regardless of whether
+         not that trail will actually take you back to the originating 
+         Sector.
+Device #6.    ATM                              (6) Retail Value: 23525
+Electronic Banking allows you access to banked funds from anywhere in the
+Universe.
+Device #7.    Sector Popper                    (6) Retail Value: 130000
+The Sector Popper is a small warp platform that will warp any ship to a
+random sector of the universe.
+The Sector Popper is the Last Line of Defense and will not activate until
+all other defenses have been broached. Due to it's small size and massive
+warp fields the Sector Popper is undetectable until the Ship is already
+within the Warp Fields.
+Device #8.    Discretionary Sector Popper      (6) Retail Value: 3000035
+This Popper works exactly like our regular Sector Popper, except that it
+is built to ignore the ship that deploys it. It is therefor useful to
+defend your personal territory.
+Device #9.    TransMat Activator               (6) Retail Value: 43000
+This Signal Device informs a visible TransMat in your Sector that your
+Ship is ready to be Transmitted. Necessary to make use of this form
+of teleportation.
+Device #10.   Autopilot Sector Deselector      (6) Retail Value: 19000
+This device allows you to tell the computer to ignore certain sectors, in
+computations for probes and autopilot devices.
+You can set up to 5 sectors. This device can not be used cumulatively,
+and will need to be reset each day.
+Device #11.   Autopilot Trouble Monitor        (6) Retail Value: 56500
+This device allows you to tell the computer to ignore certain sectors, in
+computations for probes and autopilot devices.
+You can set up to 2 sectors and they are retained until the device 
+is reprogrammed. Have a lot of sectors you need to avoid? Buy multiple
+devices.
+Device #12.   Remote Planet Viewer             (6) Retail Value: 100000
+This infraspace viewer will allow you to view the statistics of a
+Planet belonging to you.
+All you have to supply is the Sector the planet is in.
+Device #13.   Pan Dimensional Drive            (6) Retail Value: 13000000
+Based largely on Delacoos Technology our fully patented Pan Dimensional
+Drive unit is totally safe & reliable. Remember the Cabal are not just
+a threat to our dimension but to all dimensions. 
+On a historical note, Captain Andrue C. Carr is credited with the
+first successful Pan Dimensional Jump.
+Device #14.   Warp Carrier Drive               (6) Retail Value: 7750000
+Working in conjunction with a Gate Warp Detector, this magnificent Warp
+Engine can temporally BackFlow (tm) a Gate Warp allowing Reverse Travel
+along a Gate Warp.
+Device #15.   Initializing Flash Warp          (6) Retail Value: 25000
+An extremely useful device: Upon Starting the day your Ship will Flash
+Warp to a random sector, BEFORE anything in your starting sector can
+damage your ship.
+Device #16.   Initializing Flash Warp PGM      (6) Retail Value: 79000
+Upon Starting the day your Ship will Flash Warp to a sector you have
+previously programed, BEFORE anything in your starting sector can damage
+your ship.
+Device #17.   Initializing Flash Warp EQ       (6) Retail Value: 279000
+Upon Starting the day your Ship will Flash Warp to the last sector you
+were in if it is not the sector you are now in, BEFORE anything in your
+starting sector can damage your ship.
+Device #18.   Initializing Flash Warp EQ PGM   (6) Retail Value: 687000
+Upon Starting the day your Ship will Flash Warp to the previously
+selected sector if you are not in last sector you were in, BEFORE
+anything in your starting sector can damage your ship.
+Device #19.   Warp Shield Bounce Return        (6) Retail Value: 950000
+This device was created during one of the more unique commercial
+ventures of our time.  NightShade Design and MetroLink Enterprises
+produced three major pieces of equipment, of which this is the
+first.
+Using a Flash Warp and then Bouncing of a Warp Shield into an Unknown
+Sector can ruin your career in an instant, but not if you have a
+Bounce Return. This Warp Engine enhancement keeps the Warp Pulse to
+your originating Sector computed, and should anything go wrong, returns
+the Ship to that Sector.
+Device #20.   The Traveller                    (6) Retail Value: 1000000
+Serious exploration can not handled by probes....
+For True exploration you NEED to be there.
+The Traveller allows this.
+It contains an Autopilot capable of seeking out locations over
+thirty Sectors away. Each Sector is displayed from a safe distance
+BEFORE you enter it and	you can make the decisions whether to enter
+that Sector or not.
+The recient upgrade released by Boyette Instraments has made both
+this version, and the larger Grand Traveller, much more reliable.
+Device #21.   The Grand Traveller              (6) Retail Value: 2000000
+Serious exploration can not handled by probes....
+For True exploration you NEED to be there.
+The Traveller allows this.
+The Traveller contains an Autopilot capable of seeking out locations over
+thirty Sectors away.
+Each Sector is displayed from a safe distance BEFORE you enter it and
+you make the decisions whether to enter that Sector or not.
+The Grand Traveller also allows the option of giving each Sector a Long
+Range Scan before moving on.
+Device #22.   Attack Drone Locator             (6) Retail Value: 67500
+This probe will report to you where your Attack Drone packs are.
+Device #23.   Mine Locator                     (6) Retail Value: 67500
+This probe will report to you where your Sector Mines are.
+Device #24.   Planet Locator                   (6) Retail Value: 69000
+This probe will report to you where your Planets are.
+Device #25.   Hunter Drone Locator             (6) Retail Value: 93525
+This probe will report to you where your Hunter Drone Leaders are.
+A Basic requirement to use Hunt Groups effectively.
+Device #26.   Tractor Beam                     (6) Retail Value: 570000
+This device can be used to pull another vessel from sector to sector.
+Device #27.   Galvanic 'Crumb' Flush           (6) Retail Value: 1999
+For use with the Galvanic 'Bread Crumbs'. This device sets that device's
+Originating Sector as the Sector occupied when this device is run.
+Device #28.   Phantom Warp Recharger           (6) Retail Value: 1000000
+This One Shot Device, working in conjunction with a Phantom Warp Viewer,
+analyzes the residual Phantom Warp Energy and attempts to re-establish all
+the former Warp Links in the Sector.
+About 82% successful.
+Device #29.   The Dimensional Return           (6) Retail Value: 5760000
+This Computer enhancement records the exact Pan-Dimensional Location
+Information just prior to your last Jump and will return you to the
+Jump Sector upon re-entering that Dimension.
+However, only the last Jump info is stored since additional
+information overwrites any previous data.
+Device #30.   Nearby Port Locator              (6) Retail Value: 52340
+This device displays any ports within 2 sectors around you.
+Device #31.   Nearby Port Locator Deluxe       (6) Retail Value: 95570
+Like the standard version this device displays any ports within 2 sectors.
+However this deluxe edition also endeavors to determine the type of port
+located.
+Device #32.   Nearby Port Locator Ultra        (6) Retail Value: 100000
+A slight improvement over the deluxe version, also tells you from which
+link the nearby port is attached.
+Device #33.   Cul-De-Sac Locator Probe         (6) Retail Value: 98450
+This probe attempts to locate sectors with only one warp link.
+Device #34.   O.R.M. Auto Pilot Preview        (6) Retail Value: 1900
+Before there was Nspace....
+Before there was Hyperspace....
+....there was Ordinally Redirected Movement.
+This piece of Pre-Arcassian science, actually works!
+This device works in conjunction with the O.R.M. autopilot to view the
+sector before you enter it.
+A must for the serious history buff.
+Device #35.   O.R.M. Drive                     (6) Retail Value: 190000
+Before there was Nspace....
+Before there was Hyperspace....
+....there was Ordinally Redirected Movement.
+This piece of pre-Arcassian science, actually works!
+A must for the serious history buff.
+Device #36.   O.R.M. Auto Pilot                (6) Retail Value: 39680
+Before there was Nspace....
+Before there was Hyperspace....
+....there was Ordinally Redirected Movement.
+Pre-Arcassian science at it's best.
+This device uses the O.R.M. vectors to take you thru the Universe.
+A must for the serious history buff.
+Device #37.   Auto Pilot [10]                  (6) Retail Value: 12350
+Automatically finds the shortest path to any sector and then takes you
+there. Up to 10 sectors away.
+Device #38.   Auto Pilot [20]                  (6) Retail Value: 98675
+Automatically finds the shortest path to any sector and then takes you
+there. Up to 20 sectors away.
+Device #39.   Programmable Emergency Warp      (6) Retail Value: 98000
+No longer do you have to trust the fates when your ship is almost
+destroyed. This new, one shot, Programmable Emergency Warp Device
+allows you to set your destination before trouble starts....
+Although we have gotten numerous complaints about failure of these
+device, they are still you best hope to avoid death in some
+circumstances.
+Device #40.   Random Emergency Warp Device     (6) Retail Value: 78500
+This device warps your ship out of the sector if your ship is about to be
+destroyed.
+Device #41.   Sector Mine Deflector            (6) Retail Value: 20000
+When entering a sector with hostile Sector Mines this deflector will
+detonate up to 5 sector mines before they can damage your Ship.
+The Deflector potential of this device can be increased using Sector
+Mine Deflector Upgrades.
+The Maximum Deflector Potential of this device is 1000 Sector Mines.
+Device #42.   Sector Mine Deflector Upgrade    (6) Retail Value: 40000
+This Upgrade increases the potential Deflecting Capability of a Sector
+Mine Deflector by 5 units.
+Device #43.   Mine Deflector Maxi Upgrade      (6) Retail Value: 300000
+This Upgrade increases the potential Deflecting Capability of a Sector
+Mine Deflector by 20 units.
+Device #44.   Enemy Planet Evaluator           (6) Retail Value: 90
+It is difficult to obtain an exact defination of a Major Enemy Planet,
+but this defeination can mean the difference between earning a new
+device bay, and merely wasting your resources.
+This probe analyzes planetary data to determine it Major/Minor status.
+Device #45.   Dimensional Archor Pad           (6) Retail Value: 26400
+Small and hard to detect, this Pod senses a hostile Ship's attempt
+to Dimensionally Jump. The Pod places a Tractor Beam around the Ship
+at the last second causing the Ship's Pan-Dimensional Drive or Dimensional
+Wedge to make the Jump with it.
+Both the Pod and the target's Dimensional Engine bay are damaged or
+destroyed in the process as well. Useful to mine Dimensional Portals
+as well as prevent a target from escaping from a trap via a Dimensional
+jump.
+Device #46.   The Throckmorton                 (6) Retail Value: 2350000
+Created by Dr. MacPherson's protege, Dr. Throckmorton's Shield creates
+a limited cohesion field in a much more portable and affordable form.
+This Shield avoids almost 6% of the damage of Sector Mine contact.
+Warning: Multiple Throckmorton field's may lower the cohesion of the
+         your Ship's Device Bays beyond the devices' ability to control
+         them, with disastrous effects.
+Device #47.   Dimensional Breach Shielding     (6) Retail Value: 567500
+When Dimensional Breaching it is easy for an Enemy to examine the Energy
+Patterns left to determine which Dimension was jumped to. This Shielding
+Unit Scrambles that data so as to make it meaningless.
+Device #48.   Device Bay Protection Deployer   (6) Retail Value: 27666
+This Device Bay Management Tool takes Device Bay Core Force Fields (#49),
+Two Bay Bay Protectors (#68), and One Bay Bay Protectors (#67) and
+arranges them as to protect as many Device Bays as Possible.
+Device #49.   Device Bay Core Force Field      (6) Retail Value: 380000
+The Dragon Group takes a brilliant first step in the release of this
+hot new defensive item.
+This device Coordinates the Warp Core Protective Force Field to extend
+it's internal shield to the first Five Device Bays. This makes the
+these bays almost completely immune to damage.
+Device #50.   Photon Weapons Shield [5000]     (6) Retail Value: 100000
+Laser class shielding.
+Can protect up to 5000 MUs of damage.
+Device #51.   Photon Weapons Shield [10000]    (6) Retail Value: 250000
+Maser Class shielding.
+Can protect up to 10000 MUs of damage.
+Device #52.   Photon Weapons Shield [20000]    (6) Retail Value: 700000
+Heavy Particle Beam Class shielding.
+Can protect up to 20000 MUs of damage.
+Device #53.   Rogue Drone Absorber [5000]      (6) Retail Value: 3500000
+Rogue Drones are a serious threat to continued resistance of the
+Cabal menace. Luckily their understanding of Federation Technology is
+less detailed than ours.
+This device will re program and collect up to 5000 Rogue Attack Drones
+while they are preparing to attack your Ship.
+These devices are very sensitive and may malfunction if they are used
+cumulatively.
+Device #54.   Device Bay Platform              (6) Retail Value: 405000
+Protect an area with this Platform.
+When any ship enters a sector containing this Platform the Platform will
+launch its missiles at that ship, potentially damaging it's devices and
+bays.
+Platform Missiles must be purchased separately.
+Best yet the Platform does not set off a Safety Stops alarms.
+Device #55.   Device Bay Platform Missiles     (6) Retail Value: 100000
+Missiles for the Platform to fire. Platform can contain up to 10000
+missiles.
+Device #56.   The Anchor                       (6) Retail Value: 63425
+Less scrupulous Captains have been known to use the Ship Extractor, not
+to save team mates, but to tow rival ships into danger.
+Don't let this happen to you. The Anchor sets out a powerful Catrallic
+Pulse that makes it impossible for outside forces to move your ship.
+Device #57.   Device Bay Force Field           (6) Retail Value: 67500
+Strengthens Specialty Bay Protection by a full 10 percent.
+Can be used cumulatively.
+Paan Armor, as it is called, places two of these devices into a
+Paan ifth.  5 of these give 100% protection.
+Device #58.   Device Bay Defense Field         (6) Retail Value: 6000000
+This Bay Protector model only strengthens Bay Protection by 6%,
+however it possesses a 100% successful self-defense unit.
+Can be used cumulatively.
+Device #59.   Sector Popper Popper             (6) Retail Value: 160000
+This device when combined with a Warp Shield Wedge will shove an active
+Sector Popper through it's own warp.
+Device #60.   TransMat Cloaking Shuttle        (6) Retail Value: 10000
+This Shuttle transfers cloaking energy from your Ship to a TransMat.
+Device #61.   Cloaking Enhancer [2X]           (6) Retail Value: 1000000
+This extremely useful device doubles the effectiveness of your cloaking
+device.
+Can be used concurrently with other Cloaking Enhancers.
+Buy two and get 4 times the Cloaking potential, buy three and
+get 6 times, etc.
+Device #62.   Sensor Reflector Jammer          (6) Retail Value: 32400
+Jams the effects of Sector Reflectors. See sectors as they really are.
+Device #63.   Black Hole Deflector Field       (6) Retail Value: 334250
+Wandering Black Holes are the most potentially dangerous forces in the
+Universe.  They move from Sector to Sector destroying everything in their
+path. A Black Hole Deflecting Field, once established in a Sector, can
+litteraly deflect the materialization of a Black Hole into a nearby Sector
+Device #64.   Passage Tripwire                 (6) Retail Value: 67000
+This little satellite sends a radio message when someone enters or exits
+the Sector it is in.
+Device #65.   Spy Ward                         (6) Retail Value: 3552
+Spy Wards spread an energy web that confuses Spy Probes. Very useful for
+those on the run. Be warned though that Spy Drive Engines often do
+irreparable damage to the Wards, and thus they rarely work twice.
+Device #66.   Advanced Spy Ward                (6) Retail Value: 32750
+Cumulative Spy Ward Action!
+Laying Down Multiple Advanced Spy Wards allows greater protection from
+the intrusion of meddlesome spies.
+Device #67.   Single Bay Device Protector      (6) Retail Value: 77777
+At times we all have devices that we can't afford to lose.
+This inexpensive device completely protects itself and the device and
+Device Bay directly above it. Thus with this device installed in Bay #4,
+Bay #3 and Bay #4 are completely protected from missile and debris
+damage.
+Device #68.   Dual Bay Device Protector        (6) Retail Value: 390000
+At times we all have devices that we can't afford to lose.
+This inexpensive device completely protects itself and the device and
+Device Bays directly above and below it. Thus with this device installed
+in Bay #4, Bays #3 thru 5 are completely protected from missile and
+debris damage.
+Device #69.   Surveillance Defeater            (6) Retail Value: 63500
+This device blocks the signal on most ship to ship probes.
+Device #70.   Auto Pilot Safety Stop           (6) Retail Value: 524300
+A must for the active traveller.
+This device interrupts your autopilot just before it would thrust you into
+danger. Without it you can easily stumble over hostile forces before you
+have time to react.
+Along with a basic AutoPilot, this is #2 on the necessary device
+list for safe travel.
+Device #71.   Sector Beacon Missile            (6) Retail Value: 120000
+Unwanted Sector Beacons can be a real security threat.
+Destroy them with this extremely high tech smart missile.
+100% success rate.
+Requires a Sector Beacon Probe (Stock No. 116) to operate successfully.
+Device #72.   Device Bay Self Destruct         (6) Retail Value: 17500
+Stop encouraging others to attack your ship. Some find it easier to
+plunder other Ship's Devices, than to purchase there own.
+A Device Bay Self Destruct, will make it less profitable for another to
+attack your ship, by destroying your device bays before the attacker can
+scavenge them.
+Device #73.   Attack Drone Scan Imager         (6) Retail Value: 21000
+Reports a programmable illusion for the magnitude of Attack Drones in
+your possession whenever another ship scans your ship.
+It can increase an attackers confusion factor and stop an attack
+before it happens by scaring them off. Or set low, it can sucker
+someone into a foolish attack.
+Device #74.   Inventory Scan Reflector         (6) Retail Value: 21000
+This anti-probe device detects and intercepts inventory scans on your
+Ship and returns data on the Ship doing the scanning. Thus the scanning
+Ship sees it's own data but thinks it's your Ship's data.
+Device #75.   Bay Repair Drone                 (6) Retail Value: 535640
+All the Materials, Equipment and Labor needed to fix a damaged device bay
+all wrapped up in one tidy package.  One of only 2 basic repair devices
+known to exist.
+Device #76.   Computer Repair Drone            (6) Retail Value: 295333
+This One Shot Drone contains all the materials and knowledge necessary
+to repair a damaged ship's computer. The Second of the 2 basic repair
+devices	known to exist.
+Device #77.   HyperSwap Trigger Satellite      (6) Retail Value: 37560
+A lot of Ships have use HyperSwap Technology to prepare an Offensive
+Weapons Bank when attacking. Use the HyperSwap Trigger Satellite to
+switch an Attacking Ship's HyperSwap to a, hopefully, less offensive
+bank.
+Device #78.   HyperSwap Trigger Scrambler      (6) Retail Value: 37575
+Keep your HyperSwap Banks the way you set them to be.
+The HyperSwap Trigger Scrambler defuses HyperSwap Trigger Satellite
+signals before they reach your Ship.
+Device #79.   HyperSwap Trigger Missile        (6) Retail Value: 50000
+Just been hit by a HyperSwap Trigger Satellite?
+Destroy it! 100% success rate.
+Device #80.   Flash Protector Grid             (6) Retail Value: 111111
+The Flash Protector Grid Surrounds your ship with a grid of charged
+particles, that will dissipate the energy of Flash Weapons. One Grid can
+handle one Flash Weapon.
+Device #81.   Sector Beacon                    (6) Retail Value: 2450
+This beacon can be hidden in any sector and will then always display data
+about that sector no matter how well protected it is, unless dampened.
+Device #82.   Sector Beacon Deluxe             (6) Retail Value: 25999
+This deluxe version of our popular Sector Beacon allows a complete scan of
+the sectors surrounding the Sector Beacon.
+Device #83.   Ship Identifier                  (6) Retail Value: 8500
+This displays the attack drones another Vessel has.
+Device #84.   Dimensional Identifier           (6) Retail Value: 1555
+A must for the serious Dimensional Traveller. 
+It is easy to forget which Dimension you are in.
+This Identifier tells you.
+Device #85.   Ship to Ship Sensors             (6) Retail Value: 45675
+This huge device gives a detailed inventory of an enemy ship.
+Device #86.   Device Chameleon                 (6) Retail Value: 8500
+This Device can appear as any device you wish, when it isprobed by 
+Ship to Ship sensors.
+Device #87.   Device Chameleon Deluxe          (6) Retail Value: 87999
+This Device can mask itself and the device after it as any device you
+wish, when probed by Ship to Ship sensors.
+Device #88.   Device Bay Platform Detector     (6) Retail Value: 10000
+Be able to detect Device Bay Missile Platforms
+Device #89.   Device Bay Platform Identifier   (6) Retail Value: 35000
+Shows how many Missiles a Device Bay Missile Platform contains.
+Device #90.   O.R.M. Probe                     (6) Retail Value: 90000
+Before there was Nspace....
+Before there was Hyperspace....
+....there was Ordinally Redirected Movement.
+This piece of pre-Arcassian science can actually be quite useful as an
+alternate searching device.
+Also must for the serious history buff.
+Device #91.   Anticloaking Enhancer [2X]       (6) Retail Value: 1000000
+This wonderful device doubles the sensitivity of your anti-cloaking
+sensors.
+Can be used concurrently with other Anti-Cloaking Enhancers.
+Buy two and get 4 times the Anti-Cloaking potential, buy three and
+get 6 times, etc.
+Device #92.   Explorer Path Deluxe             (6) Retail Value: 294999
+Displays the shortest path to any sector up to 20 sectors away and gives
+a complete sector scan of each sector.
+Device #93.   Sector Path Finder [10]          (6) Retail Value: 54000
+Displays Shortest Path to any Sector up to 10 sectors away.
+Device #94.   Sector Path Finder [20]          (6) Retail Value: 94000
+Displays Shortest Path to any Sector up to 20 sectors away.
+Device #95.   Planet Identifier                (6) Retail Value: 12500
+This standard sensor reveals planets' owners.
+Device #96.   Attack Drone Identifier          (6) Retail Value: 3500
+This sensor reveals who owns attack drone packs.
+Device #97.   Attack Drone Program Sensor      (6) Retail Value: 7500
+This sensor reveals a attack drone pack's programming.
+Device #98.   Mine Identifier                  (6) Retail Value: 4000
+This sensor reveals who owns the mines in a sector.
+Device #99.   Mine Program Sensor              (6) Retail Value: 8000
+This sensor reveals a mine's programming.
+Device #100.  Sol Finder                       (6) Retail Value: 9560
+Finds a path to Sol. If you can get there from here. It will find the
+path.
+Device #101.  Phantom Warp Viewer              (6) Retail Value: 6750000
+This device connects itself to your sensors and allows you to see sectors
+that have been previously attached to the sector being scanned.
+It is not extremely reliable as multiple warpings can disrupt the
+energy patterns that this sensor is analyzing.
+Device #102.  Gate Warp Detector               (6) Retail Value: 1250000
+Need to discover if any Gate Warps Lead to the sector you are in?
+Then you need this device!
+Device #103.  Sector Reflector                 (6) Retail Value: 79500
+The Reflector confuses ships sensors into thinking that one sector is
+another sector.
+Device #104.  Sector Path Finder Reporter      (6) Retail Value: 56760
+Another "must have" device. This attaches itself to your Path Finder and
+reports any objects of interest that it discovers.
+Device #105.  Scan Burst Probe                 (6) Retail Value: 1500
+Brought to us by Infinity Probes:
+This probe performs a complete sector scan of any sector and immediately
+connected sectors.
+Device #106.  Sector Reflector Detector        (6) Retail Value: 3200
+If used in connection with Sector Reflector Jammer this device will inform
+you that a Sector Reflector is being jammed.
+Device #107.  Passage Tripwire Signal Sensor   (6) Retail Value: 37800
+Passage Tripwires are very hard to detect being that they are so small and
+well shielded. But if it sends a radio signal this detector will let you
+know.
+Device #108.  Phantom Warp Scanner             (6) Retail Value: 120000
+This scanning device utilizes a Phantom Warp Viewer to perform a sector
+scan on previously linked sectors.
+Device #109.  Pan Dimensional Viewer           (6) Retail Value: 1300000
+It is always best to look before you leap. Remember, in some dimensions
+the Enemy have all but completely taken over. This Dimensional Viewing
+Unit allows you to scan the sector you will breech the Dimensions into.
+Device #110.  Command Broadcast Booster        (6) Retail Value: 18000
+Extends the broadcasting range of Command Assignation to any Sector in
+the Current Dimension. It requires the Command Assignation device
+to function properly.
+Device #111.  O.R.M. Viewer                    (6) Retail Value: 87650
+Before there was Nspace....
+Before there was Hyperspace....
+....there was Ordinally Redirected Movement.
+This viewer is a must for the serious history buff.
+Device #112.  'Home Strip' Scanner             (6) Retail Value: 12000
+The first 10 sectors of space are known as Home Space.
+This device receives signals from State owned Sector Beacons so
+that you can scan it from anywhere in the Universe.
+A must for the Dimenssional Traveler!
+Device #113.  Gate Warp Viewer                 (6) Retail Value: 357000
+This Sensor, when attached to a Gate Warp Detector, allows the Detector
+to Scan the Sector that the Gate Warp Originates from.
+Device #114.  HyperSwap Trigger Detector       (6) Retail Value: 21000
+This probe detects the presence of HyperSwap Trigger Satellites in your
+current or adjacent Sectors.
+Device #115.  Planetary Class Identifier       (6) Retail Value: 39000
+Determine the Class of a Planet before you wander too close.
+Device #116.  Sector Beacon Probe              (6) Retail Value: 72999
+Launch this probe in a Sector and it will ferret out any Sector Beacons
+lurking within. Completely reusable.
+Device #117.  Sensor Report Silencer           (6) Retail Value: 2750
+This silencer gives you the ability to turn Sensor Reports on or off.
+With the Sensor Report off, travelling can be accomplished more swiftly.
+Device #118.  Sensor Report Silencer w/ warps  (6) Retail Value: 2100
+This silencer gives you the ability to turn Sensor Reports on or off.
+With the Sensor Report off, travelling can be accomplished more swiftly.
+However to aid in travelling this model still displays the Sectors Warp
+links.
+Device #119.  Port Report Silencer             (6) Retail Value: 2750
+This silencer gives you the ability to turn Port Reports on or off.
+With the Port Report off, trading can be accomplished more swiftly.
+Device #120.  Planet Report Silencer           (6) Retail Value: 2750
+This silencer gives you the ability to turn Planet Reports on or off.
+With the Planet Report off, planet trading can be accomplished more
+swiftly.
+Device #121.  Hyper Thief Missile              (6) Retail Value: 90000
+Hyper Thiefs aren't just a nuisance, they are against the law.
+Use these handy missiles to destroy them.
+100% success rate.
+Requires Hyper Thief Sensors to function.
+Device #122.  Passage Tripwire Silencer        (6) Retail Value: 9720
+If you suspect that a Passage Tripwire is in your sector, use this device
+to destroy it.
+Device #123.  Galvometric Seeking Missile      (6) Retail Value: 97000
+This is inaptly named as a missile and is more correctly a probe.
+Planets may be able to cloak their visual and frequency related outputs
+but they can not hide their mass. Planets are heavy and as such create
+strong galvanometric fields. This probe can home in on those. It won't
+help you to see it, but you will know it's there.
+Device #124.  Sonic Thumper                    (6) Retail Value: 42500
+The Thumper delivers sonic blasts capable of cracking a planets mantle.
+This model has a greater than 50% chance of avoiding the planets defenses
+and damaging a planets production and possibly even destroying it.
+Device #125.  Attack Drone Coordinator         (6) Retail Value: 34500
+This Coordinator organizes Attack Drones into an Attack Group, the size
+of which you specify. This Group is then sent to another sector attacking
+any enemy Attack Drones it encounters.
+Useful for not only combat, but for searching/scanning as well, it is
+one of the most used devices ever created.
+Device #126.  Sector Mine Launcher Missile     (6) Retail Value: 27500
+This Missile will destroy any Sector Mine Launcher in the Sector.
+100% success rate.
+Device #127.  Mine Launcher Missile Deluxe     (6) Retail Value: 27500
+This Missile will destroy any Sector Mine Launcher in a surrounding
+Sector.
+Features a 33% success rate!
+Device #128.  Toll Station Missile             (6) Retail Value: 10000
+Toll Stations are Unsanctioned Devices that attempt to diminish the
+freedoms of Sector Travel.
+We are therefore selling these Powerful Toll Station Missiles at cost.
+Beware though most Toll Stations have defensive Capabilities.
+Device #129.  Sector Reflector Rejector        (6) Retail Value: 95000
+The Sector Reflector Rejector destroys Sector Reflectors. 100% success
+rate.
+Device #130.  Laser                            (6) Retail Value: 100000
+This Photon weapon can destroy an average of 5000 enemy attack drones.
+Device #131.  Maser                            (6) Retail Value: 250000
+This Photon weapon can destroy an average of 10000 enemy attack drones.
+This weapon's frequency is also destructive to message beacons.
+Device #132.  Heavy Particle Beam              (6) Retail Value: 600000
+While not technically a photon weapon it is included in that category.
+This weapon can destroy an average of 20000 enemy attack drones.
+Device #133.  HyperSwap Trigger Signal         (6) Retail Value: 290000
+Much like a HyperSwap Trigger Satellite, this Ship Borne Device allows
+you to Trigger a HyperSwap in a Ship in your Sector.
+Device #134.  HyperSwap Trigger Signal Deluxe  (6) Retail Value: 690000
+Much like a HyperSwap Trigger Satellite, this Ship Borne Device allows
+you to Trigger a HyperSwap in a Ship in your current or adjacent Sectors.
+Device #135.  Sensor Damper Disperser          (6) Retail Value: 120000
+This one shot device disperses Sensor Damper fields.
+Device #136.  Debris Salvager                  (6) Retail Value: 72500
+This device is not a weapon but is for use after an enemy ship has been
+destroyed. This drone sifts through the wreckage and recovers any intact
+objects it discovers.
+Device #137.  OverSpace Fuel Usage Estimator   (6) Retail Value: 8560
+OverSpace Travel can require vast amounts of Fuel. Don't waste Fuel on
+Journeys you can't complete. The Estimator will compute and display the
+amount of fuel needed to complete the trip and offer you a choice of
+continuing or abandoning the manuever.
+Device #138.  Device Syphon                    (6) Retail Value: 83333
+This probe attempts to steal a device from an enemy's ship.
+Device #139.  Device Syphon Charge             (6) Retail Value: 18000
+This device increases the chance of the Device Syphon being successful.
+Device #141.  Warp Shield Missile [10 Ergs]    (6) Retail Value: 100000
+Useful for speedy tearing down of Warp Shields. Can be used from current
+or adjacent sectors.
+This Model Negates 10 ergs of Warp Shielding.
+Device #142.  Warp Shield Missile [25 Ergs]    (6) Retail Value: 300000
+Useful for speedy tearing down of Warp Shields. Can be used from current
+or adjacent sectors.
+This Model Negates 25 ergs of Warp Shielding.
+Device #143.  Warp Shield Missile [100 Ergs]   (6) Retail Value: 2000000
+Useful for speedy tearing down of Warp Shields. Can be used from current
+or adjacent sectors.
+This Model Negates 100 ergs of Warp Shielding.
+Device #144.  Variable Warp Shield Missile     (6) Retail Value: 500000
+Useful for speedy tearing down of Warp Shields. Can be used from current
+or adjacent sectors.
+This Model Negates a variable number of ergs of Warp Shielding.
+Device #145.  Snitch Beacon Snuffer            (6) Retail Value: 75750
+Snitch Beacons put Federation Ships at risk.
+Use this low cost missile to destroy them when located.
+Device #146.  Planetary Cloaking Enhancer 3x   (6) Retail Value: 3333333
+Our Newest and Finest Planetary Protection Device.
+Created by knowledge gained in our nearly four years in the business.
+This Enhancer effectively triples the cloaking ability of your entire
+planet!
+No effective assault can be accomplished it they can't see their target.
+Device #147.  Planetary Space Madness Cure     (6) Retail Value: 120000
+Space Madness: The Cabal created virus that interferes with the brain
+body interface. An infected persons actions are not those that he intends
+and he does not see what is really there. As the virus is very hard to
+detect and cure, it has been deemed highly illegal to possess.
+This device will completely cure one planet per day.
+Device #148.  Mine Production Enhancer         (6) Retail Value: 68000
+This Planetary Productivity Enhancer doubles the quantity of Sector Mines
+produced each day.
+Device #149.  Drone Production Enhancer        (6) Retail Value: 68000
+This Planetary Productivity Enhancer doubles the quantity of Attack Drones
+produced each day.
+Device #150.  Anti-Cloak Production Enhancer   (6) Retail Value: 68000
+This Planetary Productivity Enhancer doubles the quantity of Anti-Cloaking
+ergs produced each day.
+Device #151.  Warp Shield Production Enhancer  (6) Retail Value: 68000
+This Planetary Productivity Enhancer doubles the quantity of Warp
+Shielding produced each day.
+Device #152.  Planetary Probe Scrambler        (6) Retail Value: 103600
+Don't let Planetary Probes divulge your planets resources. This device
+returns bogus data to the probe.
+Device #153.  Planetary Probe Destroyer        (6) Retail Value: 123750
+Much like our Planetary Probe Scrambler, this device protects your planets
+information by destroying Planetary Probes as soon as they enter your
+atmosphere.
+Device #154.  Planetary Anti Thumper           (6) Retail Value: 11600
+Are you aware that Sonic Thumpers are single most devastating attack that
+can be made on a planet. Almost all successful planet coups start with a
+Sonic Thumper attack. So make your planet safe today. Get this Anti
+Thumper Device and have Sonic Thumper Explode harmlessly in the upper
+atmosphere.
+Device #155.  Planetary Photon Shield 10000    (6) Retail Value: 31740
+This Planetary Photon Shield will absorb up to 10000 MUs of damage per
+volley. Almost instantly self-recharging!
+Device #156.  Planetary Photon Shield 25000    (6) Retail Value: 90620
+This Planetary Photon Shield will absorb up to 25000 MUs of damage per
+volley. Almost instantly self-recharging!
+Device #157.  Complete Planet Photon Shield    (6) Retail Value: 3211600
+Stop and Look!
+This is Truly an amazing Planetary Device.
+This Photon Shield will completely neutralize virtually any photon based
+attack. Can your planet afford not to have one?
+Device #158.  Planetary Cloaking Enhancer 2x   (6) Retail Value: 1200000
+This was the first of our planetary devices.
+This Enhancer doubles the cloaking ability of the entire planet!
+Device #159.  Planetary Defense Laser          (6) Retail Value: 34000
+This Planetary Laser delivers 5000 MUs of damage to attacking ships.
+Device #160.  Planetary Defense Maser          (6) Retail Value: 80000
+This Planetary Maser delivers 10000 MUs of damage to attacking ships.
+Device #161.  Starter Pack                     (6) Retail Value: 128695
+The Starter Pack contains:
+    1 E.E.C.C. Calling
+    1 Speed Docking
+    1 Planet Identifier
+    1 Sector Mine Identifier
+    1 Credit Aware
+all for one very attractive price.
+Device #163.  TransMat Pack                    (6) Retail Value: 2812500
+The TransMat Pack
+    a TransMat Activator
+    a TransMat Cloaking Shuttle
+    a TransMat Interface
+    a TransMat Detector
+    a TransMat Retreat
+Complete control of your TransMat Systems, and all in a simple to
+use package.  Check out our new 3D Holo Instruction manual.
+Device #164.  Identifier Pack                  (6) Retail Value: 2135700
+The Identifier Packs contains the following:
+    1 Attack Drone Identifier
+    1 Mine Identifier
+    1 Attack Drone Program Sensor
+    1 Mine Program Sensor
+    1 Ship Identifier
+    1 TransMat Detector
+    1 Warp Shielding Detector
+Device #165.  Danger Pack                      (6) Retail Value: 108000
+The Danger Pack allows you to see things that could be dangerous to your
+ship.
+It includes:
+    1 Attack Drone Identifier
+    1 Mine Identifier
+    1 Attack Drone Program Sensor
+    1 Mine Program Sensor
+    1 Black Hole Detector
+Device #166.  The Travel Pack                  (6) Retail Value: 380000000
+This pack contains:
+    1 Warp Carrier Drive
+    1 Pan Dimension Drive
+    1 Traveller
+    1 Overthruster
+A massive engine upgrade for your WarShip.  Expect this to become the
+drive pack of choice in the near future.
+Device #167.  Cloaking Pack                    (6) Retail Value: 90900600
+This pack contains:
+     a 3X Advanced Cloaking Enhancer
+     a 2X Improved Anti-Cloaking Enhancer
+     a 'No Trail' Drive Shielding
+Due to the intense fields used by this device, multiple units offer no
+noticeable improvement, and may burn out your cloak systems.  But as
+a solo device you cannot beat the power of the Cloaking Pack.
+Device #168.  Sector Finder Pack               (6) Retail Value: 423500
+This pack contains:
+     1 Sector Path Finder
+     1 Sector Path Finder Reporter
+Device #169.  Auto Pilot Pack                  (6) Retail Value: 3500000
+This pack contains:
+     1 Auto Pilot [20]
+     1 Auto Pilot Safety Stop
+The most basic of drive packs.  With an Autopilot and a Safety Stop
+you can travel the standard Warp Link of the Universe.
+Device #170.  Wire Detector Pack               (6) Retail Value: 100000
+This pack contains:
+     1 Passage Tripwire Sensor
+     1 Flashwire Detector
+     1 Sensor Damper Tripwire
+Device #171.  Enemy Invasion Pack              (6) Retail Value: 1300000
+Our Best Invasion Pack, it contains an R.M.D. 35 and a Variable Frequency
+Laser. Also a C.E.C.C. Calling to Organize & Report your plundering.
+Device #172.  Trading Pack                     (6) Retail Value: 750000
+The Trading Pack contains the best speed devices for improving trade and
+building planets:
+     A Speed Dock for conserving fuel while trading.
+     A Speed Landing for conserving fuel while building planets.
+     The Auto Trader to further speed up trading.
+     and a Planetary Cargo Shuttle to further speed up planet building.
+All in one sturdy device!
+Device #173.  Warship Scanning Pack            (6) Retail Value: 8000000
+The Ship Scanner Pack contains:
+    Ship-to-Ship Sensors
+    Remote Ship Systems Diagnostic
+    Supreme Nearby Ship Locator
+    and a Ship Identifier.
+Device #174.  Phantom Warp Viewer & Scanner    (6) Retail Value: 7999999
+Why use two Device Bays for a Phantom Warp Viewer AND a Phantom Warp 
+Scanner? The Phantom Warp Viewer & Scanner only uses one Device Bay and
+only cost a few credits more!
+Device #175.  O.R.M. Pack                      (6) Retail Value: 354000
+The O.R.M. pack contains the following:
+    1 O.R.M. viewer
+    1 O.R.M. drive
+    1 O.R.M. probe
+    1 O.R.M. autopilot
+The definitive collection for the serious historian.
+Device #176.  Communications Pack              (6) Retail Value: 450000
+The Communications Pack contains:
+    1 ATM
+    1 OTB
+    1 E.E.C.C. Calling
+    1 Spylink
+A complete communications suite.  Remain in contact with vital Ports
+even when roaming the Galaxy.
+Device #177.  Speed Pack                       (6) Retail Value: 90000
+The Speed pack contains:
+    1 Speed Docking Device
+    1 Speed Landing Device
+Device #178.  Report Silencer Pack             (6) Retail Value: 357500
+The Report Silencer Pack:
+    1 Port Report Silencer
+    1 Planet Report Silencer
+    1 Sensor Report Silencer [with warps]
+Presented as an aid in swift trading.
+All functions are either on or off, they can not be activated
+individually.
+Device #179.  Nordic Warrior Pack              (6) Retail Value: 2504333
+The Nordic Warrior Pack contains:
+    a Device Bay Platform Detector
+    a Maxi-Maser (no longer in stock as a stand alone)
+    a Tractor Beam
+    Attack Drone Aware
+    Device Aware
+    a Galvanic Catapult
+Device #180.  The Aware Collection             (6) Retail Value: 450000
+From Aware: innovators in inline activated devices,
+The Complete Collection of Aware inventory devices:
+    Ctrl-A displays the Anti-Cloaking ergs you have available.
+    Ctrl-C device displays the Credits on hand.
+    Ctrl-D displays the Cloaking ergs available.
+    Ctrl-E displays the number of Fuel Units you have left.
+    Ctrl-F displays the number of attack drones on board.
+    Ctrl-G displays the number of Free Device Bays on the ship.
+    Ctrl-K displays the number of holds on ship.
+    Ctrl-L displays the number of minutes you have left.
+Device #181.  The Aware Investment Pack        (6) Retail Value: 100000
+From Aware: innovators in inline activated devices,
+The Investment Pack contains:
+    1. ATM device
+    1. Credit Aware device (Ctrl-C)
+Device #182.  Init. Flash Warp Factory         (6) Retail Value: 250000
+This Simple Device Factory generates one Initializing Flash Warp per day
+into an available Ship's Device Bay.
+Device #183.  Init. Flash Warp PGM Factory     (6) Retail Value: 790000
+This Simple Device Factory generates one Initializing Flash Warp PGM per
+day into an available Ship's Device Bay.
+Device #184.  Mine Deflector Upgrade Factory   (6) Retail Value: 400000
+This Simple Device Factory generates one Mine Deflector Upgrade per day
+into an available Ship's Device Bay.
+Device #185.  Sector Popper Factory            (6) Retail Value: 1300000
+This Simple Device Factory generates one Sector Popper] per day into an
+available Ship's Device Bay.
+Device #186.  Phantom Warp Recharger Factory   (6) Retail Value: 10000000
+This Simple Device Factory generates one Phantom Warp Recharger per day
+into an available Ship's Device Bay.
+Device #187.  TransMat Platform Factory        (6) Retail Value: 650000
+This Simple Device Factory generates one TransMat Platform per day into
+an available Ship's Device Bay.
+Device #188.  Sector Reflector Factory         (6) Retail Value: 795000
+This Simple Device Factory generates one Sector Reflector per day into an
+available Ship's Device Bay.
+Device #189.  Cloaking Enhancer [2x] Factory   (6) Retail Value: 10000000
+This Simple Device Factory generates one Cloaking Enhancer [2x] per day
+into an available Ship's Device Bay.
+Device #190.  Spy Ward Factory                 (6) Retail Value: 36000
+This Simple Device Factory generates one Spy Ward per day into an
+available Ship's Device Bay.
+Device #191.  Repair Drone Factory             (6) Retail Value: 5356400
+This Simple Device Factory generates one Repair Drone per day into an
+available Ship's Device Bay.
+Device #192.  AntiCloaking Enhancer Factory    (6) Retail Value: 10000000
+This Simple Device Factory generates one Anti-Cloaking Enhancer [2x] per
+day into an available Ship's Device Bay.
+Device #193.  Scan Burst Probe Factory         (6) Retail Value: 15000
+This Simple Device Factory generates one Scan Burst Device per day
+into an available Ship's Device Bay.
+Device #194.  Sonic Thumper Factory            (6) Retail Value: 425000
+This Simple Device Factory generates one Sonic Thumper per day into an
+available Ship's Device Bay.
+Device #195.  Heavy Particle Beam Factory      (6) Retail Value: 6750000
+This Simple Device Factory generates one Heavy Particle Beam per day into
+an available Ship's Device Bay.
+Device #196.  Message Beacon Factory           (6) Retail Value: 210000
+This Simple Device Factory generates one Message Beacon per day into an
+available Ship's Device Bay.
+Device #197.  Toll Station Missile Factory     (6) Retail Value: 100000
+This Simple Device Factory generates one Toll Station Missile per day into
+an available Ship's Device Bay.
+Device #198.  Advanced Spy Ward Factory        (6) Retail Value: 330000
+This Simple Device Factory generates one Advanced Spy Ward per day into an
+available Ship's Device Bay.
+Device #199.  Press Pass Factory               (6) Retail Value: 675000
+This Simple Device Factory generates one Press Pass per day into an
+available Ship's Device Bay.
+Device #200.  Passage Tripwire Factory         (6) Retail Value: 670000
+This Simple Device Factory generates one Passage Tripwire per day into an
+available Ship's Device Bay.
+Device #201.  Air Purifier                     (6) Retail Value: 85400
+Constantly Scours the atmosphere in your ship to give you the cleanest,
+healthiest, freshest smelling environment possible.
+Device #202.  Macro Computer [5]               (6) Retail Value: 1120
+This device programs your ship's computer with up to 5 command macros.
+What's more, once programed this device can be stored away and is only
+needed to update the macros.
+As this is only a programmer, multiple devices are not additive.
+Device #203.  Macro Computer [10]              (6) Retail Value: 35600
+This device programs your ship's computer with up to 10 command macros.
+What's more, once programed this device can be stored away and is only
+needed to update the macros.
+Device #204.  Remote Drone Activator           (6) Retail Value: 445000
+The Activator sends a specially encoded Signal that causes all your
+Deactivated Attack Drones to come online.
+See the Stand Down for deactivation.
+Device #205.  Money Cache                      (6) Retail Value: 12000
+Useful when your ships credit stores are full and you just don't trust
+the banks. Keep a little emergency credit tucked away.
+Device #206.  Toll Station Controller          (6) Retail Value: 13000
+This device enables you to collect fees from, and reset the price of
+existing Toll Stations.
+Device #207.  Snitch Beacon Repatriator        (6) Retail Value: 350000
+Turn Snitch Beacons back on their users!
+This Drone contains a modified Homing Trap that locks onto a Snitch
+Beacon, erases it's programming and waits from the next Ship that
+enters the Sector to imprint on.
+Device #208.  Remote Display Xmit Rerouter     (6) Retail Value: 3400
+Uses Aware Technology, the innovators in inline activated devices.
+Performs Ship's Computer Function 'X': Xmit Display Sensor Information
+thru Sub Space Radio anytime that Ctrl-\ is pressed.
+Device #209.  Remote Device Access             (6) Retail Value: 9780
+This simple device allows you remote access to your Specialty Bay Devices
+while you are docked at a planet or docked at Ports 4, 6, 7, 8 or 9.
+Device #210.  Press Pass                       (6) Retail Value: 67500
+Allows you to post one line in the Galactic Newspaper.
+Device #211.  Permanent Press Pass             (6) Retail Value: 2564325
+This allows unlimited access to posting on the Galactic Newspaper.
+Simply activate it, and type your message.  It will be sent to the
+nearest Galactic New Office for publication.
+Device #212.  The Auto Trader                  (6) Retail Value: 10000
+The Auto Trader fully automates trading at a port. It selects full
+purchase or sell and accepts all offers.
+Device #213.  Adelphia Planetary Merger        (6) Retail Value: 999999
+Part of the Adelphia line from Epsenhart Inc.
+This device merges two planets into one!
+Losses in the transfer process are kept to a minimum.
+Device #214.  Adelphia Planetary Splitter      (6) Retail Value: 999999
+Part of the Adelphia line from Epsenhart Inc.
+This device splits a planets into two planets!
+Losses in the transfer process are kept to a minimum with this newest
+model. However, only cargo and not production ability are transferred.
+Device #215.  Super Macro Computer             (6) Retail Value: 92400
+The SuperMacro Computer is a new addition to the TML used by Warships.
+It can hold up to 26 Macros that are then called by other control
+macros to enhance their functions.  In effect the macros in the Super
+are 'Sub-Macros' which are called by the 'Main Macros'.
+These Macros can also be triggered directly on the command line. Some
+Captains keep a prepared Macro List, and then ASCII upload it into any
+new	Ships using the Super Macro Computer.
+Device #216.  Command Transfer Tube            (6) Retail Value: 145000
+Controlling a personal Fleet of ships can be complex.  This device
+makes it a bit easier to move from one ship to the next.
+The Command Transfer Tube, allows the Captain or Dual-Captain of a Ship
+to Transfer to another Ship in the same Sector, assuming you are
+Captain or Dual-Captain of the new Ship as well.
+Device #217.  Aldus Point Analyzer             (6) Retail Value: 900000
+An Aldus Point is Sector from which if a Ship jumped to another Dimension
+and then jumped back, it would end up in the same Sector.
+Aldus Points rarely form and don't last very long, but this computer
+will determine if they exist in your Dimension.
+Device #218.  Flash Warp Targetting Upgrade    (6) Retail Value: 400000
+It is not widely publicized but other Ships and Objects Warping the
+Universe at the same instant that your Ship is can cause Flash Warp
+Engines to miscalculate and miss their Destination Sectors.
+While the chance of this type of failure is only about 5%, just one such
+Targeting Failure can prove disastrous.
+NightShade Design holds the primary patent on this small CPU addon.
+With it you have a faster computer that can compensate for the changing
+structure of the Universe in mid-flight. The chances of a bad jump are
+reduced by 1%.
+Device #219.  Remote Port Probe                (6) Retail Value: 70
+This little inexpensive one-shot probe merely reports the Status of a
+Trading Port.
+Device #220.  Fusion Cell                      (6) Retail Value: 3500
+Excess units of Fuel can be stored in this device for future use.
+Device #221.  Message Beacon                   (6) Retail Value: 21000
+This device plays a message to any passing ships.
+Device #222.  Message Silencer                 (6) Retail Value: 9500
+This device intercepts messages and tells you there is a message beacon.
+You may view the message if you wish.
+Message intercept can be toggled on or off.
+Device #223.  Anticloaking Aware               (6) Retail Value: 16000
+From Aware: innovators in inline activated devices,
+This device displays the Anti-Cloaking ergs you have any time you type
+Ctrl-A.
+Device #224.  Bay Aware                        (6) Retail Value: 25000
+From Aware: innovators in inline activated devices,
+This device displays the specialty device bays any time you type Ctrl-B.
+Device #225.  Currency Aware                   (6) Retail Value: 20000
+From Aware: innovators in inline activated devices,
+This device displays the Credits on hand any time you type Ctrl-C.
+Device #226.  Cloaking Aware                   (6) Retail Value: 16000
+From Aware: innovators in inline activated devices,
+This device displays the Cloaking ergs you have any time you type Ctrl-D.
+Device #227.  Fuel Aware                       (6) Retail Value: 16000
+From Aware: innovators in inline activated devices,
+This device displays the number of Fuel units you have any time you type
+Ctrl-E.
+Device #228.  Attack Drone Aware               (6) Retail Value: 16000
+From Aware: innovators in inline activated devices,
+This device displays the number of attack drones you have any time you
+type Ctrl-F.
+Device #229.  Free Bay Aware                   (6) Retail Value: 16000
+From Aware: innovators in inline activated devices,
+This device displays the number of Free Device Bays on ship any time you
+type Ctrl-G.
+Device #230.  Lateral Sensor Array             (6) Retail Value: 130000
+This device converys your Cargo Area into a Lateral Sensor Array.
+It is very important to consider the effects of this, because there is
+NO way to convert back. This means that your Ship will be unable to
+Trade or Haul Cargo.
+The Lateral Sensor Array is very similar to Ship Enhancement: The Forward
+Sensor Array. Any device that will function in the FSA will function in
+the LSA.
+Once installed this device will act as a Unit do move devices from
+your Standard Bays into the LSA.
+Device #231.  Inventory Aware                  (6) Retail Value: 100000
+From Aware: innovators in inline activated devices,
+This device displays the complete ship's inventory any time you type
+Ctrl-I.
+Device #232.  Device Aware                     (6) Retail Value: 29000
+From Aware: innovators in inline activated devices,
+This device displays a detailed listing of the ship's specialty devices
+any time you type Ctrl-J.
+Device #233.  Hold Aware                       (6) Retail Value: 16000
+From Aware: innovators in inline activated devices,
+This device displays the number of holds you have any time you type
+Ctrl-K.
+Device #234.  Time Aware                       (6) Retail Value: 46000
+From Aware: innovators in inline activated devices,
+This device displays the number of minutes you have, any time you type
+Ctrl-L.
+Device #235.  Display Disabler                 (6) Retail Value: 1875
+The ultimate in increasing speed and efficiency.
+This device disables all screen display, except for inputs, until the
+command is finished.
+Simply be starting a macro with 'V;235;' the entire macro will only
+display the macro commands and none of the display and messages.
+A real time saver.
+Device #236.  Shopping Evaluation Interface    (6) Retail Value: 400
+Why spend your precious time looking at devices you can not afford?
+The Shopping Evaluation Interface determines which devices you can
+not afford and displays them in a light gray. Devices you can afford
+are displayed in a cheery yellow.
+This Interface works at Tech Magic and Alien Devices.
+Device #237.  Alarm Clock                      (6) Retail Value: 11750
+Set a warning time limit after which you are warned that you have only
+so much time left.
+Warning: Multiple Active Alarm Clocks will cause systems malfunction.
+Device #238.  Ship Extractor                   (6) Retail Value: 67525
+Basically this is a Long Distance Tractor Beam. This device has the 
+ability to tow a ship from adjacent sector to your ship.
+Useful for removing team mates from danger.
+Device #239.  Device Inhibitor                 (6) Retail Value: 3333
+The Device Inhibitor stops a selected passive device on your ship from
+functioning. Very useful for turning off things in packs or testing for
+the unaltered state of something
+Device #240.  Tech Magic's Pot Luck Surprise   (6) Retail Value: 67000
+Our Famous Pot Luck Surprise....
+This could actually be any device we sell from the more inexpensive to
+the Best device we make.
+Simply Use the Pot Luck Surprise to determine the Device Held Within.
+Every Pot Luck Surprise is Different.
+Device #241.  Warp Shielding Transport Device  (4) Retail Value: 127600
+This Deluxe Cargo Carrier can hold up to 5000 Warp Shield Devices AND
+5000 Warp Shield Nullifiers.
+This allows bulk transport and use for creating or nullifying LARGE
+Shields.
+Includes, free, 1 Warp Shield Device and Nullifier.
+Device #242.  Planetary Evacuation Device      (4) Retail Value: 57500
+A Planetary Emergency Evacuation Device.
+When you've absolutely got to get out of there.
+The Device Computer Scans the Universe for an area that is safely
+compatible with your planet.
+It then Warps space, keeping a careful gravatonic balance, to safely
+deliver your planet to this new location.
+All of this is accomplished within 24 hours.
+This device has an extremely high success rate.
+Device #243.  Pan Dimensional Control Signal   (7) Retail Value: 0
+This Device is a total MUST for Pan Dimensional Travellers.
+If fact this device is SO important we are giving it away free!
+This device allows you to maintain control over your Attack Drones, 
+Sector Mines & Planets while you are in another Dimension. If you do not
+have this device active your possessions in other dimensions will in time
+think you have been destroyed and turn rogue.
+Device #247.  Inertia Damper                   ( ) Retail Value: 0
+This device sets up a hysteretic field around the ships various fields
+making most ship's function use 100 to 400% more fuel.
+Device #248.  Programmable Device #1           ( ) Retail Value: 0
+Programmable Device #1
+Device #249.  Programmable Device #2           ( ) Retail Value: 0
+Programmable Device #2
+Device #250.  Programmable Device #3           (8) Retail Value: 0
+Programmable Device #3
+Device #251.  Emergency Sol Return             (8) Retail Value: 375000
+Check this baby out.
+This is a rework of the Federation's own shield bypass system.
+This will instantaneously defeat the Federation Warp Shield and bring you
+into dock around Sol.
+While it is true that it destroys itself in the attempt this device can
+be a real lifesaver if you are "floating" helpless in space.
+Device #252.  'Out of Position' Adjuster       (8) Retail Value: 675000
+Running out of time when you are far from the safe havens can be a
+deadly experience. Allow this device to Warp you away to a preset safe
+haven, should time run out on you.
+Warning: Multiple Adjusters will cause targeting malfunctions.
+Device #253.  The Isolator                     (8) Retail Value: 620000
+The Isolator completely "unWarps" a sector from the rest of the Universe,
+and vice-versa.
+Device #254.  The Isolator ][                  (8) Retail Value: 1020000
+The Isolator ][ will unlink Warps that connect the rest of the Universe
+to your Sector, but leave the Warp Links from your Sector to the rest of
+the Universe untouched.
+Device #255.  The Isolator, Neat & Tidy        (8) Retail Value: 3205100
+The Isolator, Neat & Tidy acts just like our Isolator ][ model, except 
+that it also manifests erratic Warp energies to completely eradicate
+Phantom Warp Links as well!.
+Device #256.  OTB                              (8) Retail Value: 11110
+Off Track Betting Device.
+Allows access to Gambling Ports via electronic communication.
+Device #257.  Sector Relocator                 (8) Retail Value: 975000
+This device is of unknown origin:
+After much experimentation and research we have managed to made this
+device functional and even make it function with our Warp Shield Wedge.
+This device will remove all warp links from an existing sector and then
+relink it to apparently random sectors.
+Even alters O.R.M. links!
+Device #258.  The Over-Thrustor                (8) Retail Value: 45000
+The Over-Thrustor is an advanced fuel recycling system that attaches
+to your Over Space Drive effectively halving the fuel consumption
+associated with Over Space travel.
+Pays for itself in just a few uses.
+Device #259.  Explorer Autopilot               (8) Retail Value: 556100
+This Automated Auto Pilot, launches a probe to explore a random sector
+in the galaxy and then charts a course to take you there.
+Great for exploration.
+Device #260.  Far Shot Autopilot               (8) Retail Value: 734560
+This Automated Auto Pilot, launches a probe to discover the farthest point
+in the galaxy from your ship (up to 50 sectors away) and then sets the
+autopilot to take you there.
+Great for exploration.
+Device #261.  Dimensional Catapult             (8) Retail Value: 130000
+A Free Standing Dimensional Breach Generator and Tractor Beam Station.
+This Satellite is capable of Generating a Dimensional Breach and then
+forcing an invading Ship thru that Breach.
+Device #262.  Team Dimensional Catapult        (8) Retail Value: 190000
+A Free Standing Dimensional Breach Generator and Tractor Beam Station.
+This Satellite is capable of Generating a Dimensional Breach and then
+forcing an invading Ship thru that Breach.
+This Team version has Team Detection Circuitry so that team members are
+not Catapulted.
+Remember: This Satellite is owned by the Team not your Ship.
+Device #263.  Warp Link Connector              (8) Retail Value: 275000
+This device takes two Warp Links that connect to a Sector and fuses them
+together so that the two Sectors are now connected.
+Confused? Okay, let's use an example:
+   
+  Say Sector 34 connects to Sector 13, and Sector 22 also connects to 13.
+  By using this device in Sector 13, you could connect Sector 34 to 
+  Sector 22.
+
+The advantage to this is two fold. One, only the Warp Shielding of the
+Sector the device is used in, matters (Sector 22 in our example). And 
+two, you needn't be in either of the affected areas.
+Device #264.  Trap Door Retreat                (8) Retail Value: 137690
+Stop! - Read! - This is a Must Have Device!
+
+This is the last line of defense to save your WarShip. If your WarShip
+is attacked and about to be destroyed the Trap Door will:
+
+    1) Fire all defenses (except Dead Man Switch)
+    2) Jettision Destruction-Like Debree
+    3) Transmit a Destruction Signal
+    4) When hidden by debree, drop down the O.R.M. Link.
+    5) Attempt to remain in the link for as long as possible.
+
+The effect of these actions, is that your Ship appears destroyed
+(Even to the Feds who will transfer your Debt, Fines and Credits to
+your attacker.) and might not turn up if the destination Sector is
+scanned.
+However this device triggers much later in the attack than other devices
+(like the Emergency Warp) so more serious damage is done to teh Ship, but
+as the last resort....
+
+Device #265.  TransMat Interface               (8) Retail Value: 145000
+This device allows a TransMat to be set to another sector.
+Device #266.  TransMat Retreat                 (8) Retail Value: 65750
+The Retreat resets a TransMat's programming to sector 1, AFTER your Ship
+has passed thru the Transmat.
+Device #267.  Nearby Ship Locator              (8) Retail Value: 23500
+This one shot device detects Federation Warships up to two sectors away.
+Device #268.  Supreme Nearby Ship Locator      (8) Retail Value: 1550999
+This deluxe version of the Nearby Ship Locator detects Federation Warships
+up to two sectors away, then this probe returns to your ship.
+Device #269.  Harmony Helper                   (8) Retail Value: 190000
+This device detects the presence of a Harmony Wave with a Warp Shielding
+Field and shuts down your Warp Shield Wedges mere nanoseconds before the
+feedback would have destrioyed them.
+Device #270.  Autopilot Snare                  (8) Retail Value: 9200
+This Snare will scramble all other ships autopilots when they travel thru
+this sector, effectively dropping them into that sector.
+Device #271.  Over Space Navigator Negator     (8) Retail Value: 290000
+Don't Let Ships sneak out of your traps through normal space.
+Use this negator to snarl there navigational sensors.
+Device #272.  Navigator Negator Scrambler      (8) Retail Value: 290000
+Why waste precious resources destroying Negators when you can make 
+them work for you.
+Alter the Over Space Navigator Negator in your sector to respond to
+your Ships calling frequencies only.
+Device #273.  Dimensional Anchor               (8) Retail Value: 94375
+Don't take a Dimensional trip unless you plan to.
+The Dimensional Anchor outputs a low level Thallic Wave, in the presence
+of which no Dimensional Breach can form.
+Device #274.  Dimensional Catapult Catapult    (8) Retail Value: 200000
+Dimensional Catapults have fairly advanced defense capabilities that
+make it nearly impossible for a Sensor bound missile to approach it
+without being shunted to another Dimension itself.
+The Dimensional Catapult Catapult sets up an illusion that tricks the
+Dimensional Catapult into launching itself into the Dimensional Breach!
+Do to the method of the Catapults Dimensional Engine it is not actually
+capable of shunting itself and so ends up in another location within
+the same Dimension.
+This is a One Shot Device.
+Device #275.  The GoTo                         (8) Retail Value: 475000
+We have only a limited supply of these devices liberated from an Injured
+Delacoos freighter.
+This device appears to use another type of OverSpace, like Hyperspace or
+Nspace, but with different properties.
+No amount of Warp Shielding, nor any device currently known can prevent
+the transmission of your ship with this device.
+However we have not yet discovered how to alter the device's programming.
+Device #276.  The Gosub                        (8) Retail Value: 913000
+We have only a limited supply of these devices liberated by Andrue C Carr,
+Inc., from an Injured Delacoos freighter.
+This device appears to use another type of OverSpace, like Hyperspace or
+Nspace, but with different properties.
+No amount of Warp Shielding, nor any device currently known can prevent
+the transmission of your ship with this device.
+The next use then returns you to your originating sector.
+However we have not yet discovered how to alter the device's programming.
+Device #277.  Wandering Drone Locator          (8) Retail Value: 19552
+If you have Attack Drones wandering viciously through out the Universe,
+you need this hardy report coordinator to keep track of them.
+Device #278.  Team Attack Drone Locator        (8) Retail Value: 67500
+This probe will report to you where your team's attack drone packs are.
+Device #279.  Team Mine Locator                (8) Retail Value: 67500
+This probe will report to you where your team's sector mines are.
+Device #280.  Spy Link                         (8) Retail Value: 15000
+This electronic transfer device allows you contact with The Dark from
+anywhere in the galaxy.
+Device #281.  E.E.C.C. Calling                 (8) Retail Value: 1005
+This communication device allows you to Coordinate with C.E.C.C.
+Headquarters right from where you need them, a the sight of the battle.
+
+Very useful for Cabal hunters.
+Device #282.  Ship to Ore Port Warper          (8) Retail Value: 36000
+Probe, Remote Sensor and Warp Engine all in one tidy package.
+The probe will seek out a port selling Ore, the Remote Sensor will 
+transmit Sensor Report on that Sector, and if you wish the Warp Engine 
+will Warp your ship to that sector.
+Device #283.  Ship to Organic Port Warper      (8) Retail Value: 37000
+Probe, Remote Sensor and Warp Engine all in one tidy package.
+The probe will seek out a port selling Organics, the Remote Sensor will 
+transmit Sensor Report on that Sector, and if you wish the Warp Engine 
+will Warp your ship to that sector.
+Device #284.  Ship to Equipment Port Warper    (8) Retail Value: 38000
+Probe, Remote Sensor and Warp Engine all in one tidy package.
+The probe will seek out a port selling Equipment, the Remote Sensor will 
+transmit Sensor Report on that Sector, and if you wish the Warp Engine 
+will Warp your ship to that sector.
+Device #285.  Ship to Power Port Warper        (8) Retail Value: 39000
+Probe, Remote Sensor and Warp Engine all in one tidy package.
+The probe will seek out a port selling Power, the Remote Sensor will 
+transmit Sensor Report on that Sector, and if you wish the Warp Engine 
+will Warp your ship to that sector.
+Device #286.  Ship to Water Port Warper        (8) Retail Value: 39999
+Probe, Remote Sensor and Warp Engine all in one tidy package.
+The probe will seek out a port selling Water, the Remote Sensor will 
+transmit Sensor Report on that Sector, and if you wish the Warp Engine 
+will Warp your ship to that sector.
+Device #287.  Dimensional Pack Wedge Charge    (8) Retail Value: 27500
+This recharge device recharges used Dimensional Wedges in the Deluxe
+Dimensional Pack.
+Device #288.  Galvanic Catapult                (8) Retail Value: 867500
+You no longer have to worry about being a victim of blackholes.
+True, there is no known way to destroy or move blackholes, but now, using
+alien technology recently stolen from the Cabal, you can harness the power
+of the blackhole to travel faster than the speed of light in normal space.
+So upon encountering a blackhole you will be whisked safely away.
+88% success rate!
+Device #289.  Dimension Wedge                  (8) Retail Value: 13000
+Sure this device is only a one-shot, but at less than a 1000th the price
+of Tech Magic's Pan Dimensional Drive, it's well worth the credits.
+This device is perfectly safe & reliable, 100% success rate.
+Device #290.  Trading Port Spacial Relocator   (8) Retail Value: 15000000
+This expensive spacial device, twists space in order to move ports around.
+Device #291.  Device Bay Shielding             (8) Retail Value: 32750
+This little guy provides structural strength as well as scanner shielding
+for your device bay.
+Device #292.  Advanced Cloaking Enhancer       (8) Retail Value: 2000000
+Our Improved Cloaking Enhancer operates exactly like that of Tech Magic's
+Cloaking Enhancer except that ours also functions perfectly in a Paan
+Ifth or Redeph, allowing you to put more Cloaking power in fewer bays.
+Device #293.  'No Trail' Drive Shielding       (8) Retail Value: 32400
+Stop broadcasting your location!
+Your drives leave a unique energy signature that can be traced!
+But not with this baby installed.
+Device #294.  Heavy Radiation Shielding        (8) Retail Value: 35875
+Well this is quite an amazing device.
+The only known defense against the Dead Man Switch.
+First it speeds liquid Molecolium around the entire ship and with an
+electrical charge polarizes it into it's solid state, forming a thin
+shell of the Universe's most energy dense material.
+Then it infuses this shell with a high beam energy force field.
+Still don't think this will completely shield you. This Shield will stop
+your Ship from being destroyed, but the Dead Man Switch will still
+wreak terrible damage on your Ship.
+Device #295.  Warp Link Display Suppressor     (8) Retail Value: 7800
+Suppress Sensor Readouts from displaying or finding Warp Links.
+Device #296.  Planetary Tractor Beam Feedback  (8) Retail Value: 120800
+This device attempts to resonate against a Planetary Tractor Beam in such
+a way as to cause the Tractor Beam to explode. Some times it works, some
+times the Feedback device explodes first.
+Device #297.  Holographic Ship Decoy Beacon    (8) Retail Value: 75610
+This is a state of the art, fully automated holographic satellite.
+This mother will put out an image of your ship, complete with any amount
+of attack drones you want. The holograph will fool any long range sensor!
+Very useful for wild goose chases.
+Make you enemy waste valuable resources get to "you!"
+Device #298.  Holographic Planet Decoy Beacon  (8) Retail Value: 97800
+This is a state of the art, fully automated holographic satellite.
+This device will transmit an holograph of a planet.
+The holograph will fool anything but close up inspection.
+Very useful for wild goose chases.
+Make you enemy waste valuable resources get to "you!"
+Device #299.  Holographic Black Hole Beacon    (8) Retail Value: 105000
+This is a state of the art, fully automated holographic satellite.
+This device will transmit an holograph of a Black Hole.he holograph
+will fool anything but close up inspection.
+Scare Enemies into avoiding your areas.
+Device #300.  R.M.D. 25                        (8) Retail Value: 550000
+When entering a sector with hostile sector mines this deflector
+will detonate up to 25 sector mines before they can damage your ship.
+And...
+Unlike simpler Mine Deflectors this one will regenerate the ability to
+deflect mines.
+Device #301.  R.M.D. 50                        (8) Retail Value: 1000000
+When entering a sector with hostile sector mines this deflector
+will detonate up to 50 sector mines before they can damage your ship.
+And...
+Unlike simpler Mine Deflectors this one will regenerate the ability to
+deflect mines.
+Device #302.  R.M.D. 75                        (8) Retail Value: 3000000
+When entering a sector with hostile sector mines this deflector
+will detonate up to 75 sector mines before they can damage your ship.
+And...
+Unlike simpler Mine Deflectors this one will regenerate the ability to
+deflect mines, however it does do so at a slightly slower rate than
+it's smaller cousins.
+Device #303.  R.M.D. 100                       (8) Retail Value: 7000000
+When entering a sector with hostile sector mines this deflector will
+detonate up to 100 sector mines before they can damage your ship.
+And...
+Unlike Tech Magic's Mine Deflectors our's will regenerate the ability to
+deflect mines, however it does do so at a slightly slower rate than our
+smaller models.
+Device #304.  Mine Deactivator Enhancer        (8) Retail Value: 150000
+This enhances the Stealth ICE Technology increasing the Deactivator's
+chance of success a full 2% per unit.
+Device #305.  Sector Mine Deactivator          (8) Retail Value: 2892000
+An Execellent example of Last Chance Technology!
+The Mine Deactivator, homes in on hostile Sector Mines and attempts to
+deactivate them before they detect your ship.
+The Mine Deactivator features a one third success rate but can only
+be enhanced by using the Mine Deactivator Enhancers.
+The Deactivators overheat after use regardless of success or failure.
+
+Warning: Deactivators do not possess quality Signal Processors and will
+         treat Team owned Sector Mines as Hostile Mines.
+Device #306.  Homing Signal Jammer             (8) Retail Value: 20400
+Somebody got a homing beacon locked on you?
+This will jam that beacon, so no signals reveal your position.
+Device #307.  Warp Shield Device               (8) Retail Value: 45600
+Take a look a this...
+Now you can protect a sector from warpings just like the Federation!
+This device contains 1 erg of Warp Shielding Energy.
+Device #308.  Dead Man Switch                  (8) Retail Value: 67500
+Revenge from the Grave!
+Your Ship has just been destroyed by the ravages of enemy Attack Drones,
+the enemy ship hovers close by, directing the battle and waiting to
+plunder the spoils.
+Then your Dead Man Switch kicks in, channeling the Fusion Core of your
+Warp Drive directly into the Trittrium Core of your Over-Space Drive
+causing a Mass-Energy explosion of stellar proportions.
+Heavy Radiation pummels the enemy vessel into sub-atomic particles before
+any type of defensive maneuver is possible.
+Even Emergency Warp Drive will not save the ship.
+Device #309.  Sensor Damper                    (8) Retail Value: 63750
+This satellite absorbs Sensor readings in such a way as to appear blank on
+Sensor readouts. Makes Sector almost totally un detectable. As a bonus it
+also fouls the triangulation feature of the Autopilot and devices like it,
+so that they will not work within a Damper Field.
+This model has been improved so that it also fouls Sensor Damper
+Dispersers.
+Device #310.  Sensor Damper Deluxe             (8) Retail Value: 263000
+This satellite absorbs Sensor readings in such a way as to appear blank on
+Sensor readouts. Makes Sector almost totally un detectable. As a bonus it
+also fouls the triangulation feature of the Autopilot and devices like it,
+so that they will not work within a Damper Field.
+This deluxe model allows deployment from adjacent sectors.
+Device #311.  Trail Sweeper                    (8) Retail Value: 12300
+This device is much like our 'No Trail' device, however in addition to
+not leaving a drive trail, this device muddles whatever drive trail was
+previously there.
+Device #312.  Personal Trail Sweeper           (8) Retail Value: 34750
+This is an personal version of our Trail Sweeper. This device only 
+muddles drive trails, when they are yours.
+Device #313.  Fuel Tank Shielding              (8) Retail Value: 75000
+Hunter Drones have special circuitry to fool the Refueling Module
+on your Ship to open, releasing precious energy into Space where
+they collect it and use it against you.
+Fuel Tank Shielding, adds a special layer of encoding so that only
+authorized Refueller's can access your Energy Supplies.
+Device #314.  Warp Shield Wedge                (8) Retail Value: 1500000
+Hey don't let Warp Shielding get in your way...
+This beautiful baby can pierce 50 ergs of shielding to create a permanent
+warp. But for Flash Warps it can pierce up to 7500 ergs upon entry...
+And a whopping 15000 ergs upon egress.
+Device #315.  Surveillance Feedback Emitter    (8) Retail Value: 925000
+This transmitter detects ship to ship surveillance sweeps and creates a
+feedback signal that will destroy the surveillance transmitter.
+Device #316.  Hyper Thief                      (8) Retail Value: 6000000
+Hyper Technologies now proudly unveils The Hyper Thief!
+This a Space Borne Pocket of Hyper Space, which combined with Hyper
+Technology will liberate a device from a passing vessel and store it
+in Hyper Space for later retrieval.
+The Hyper Thief can store up to 12 devices.
+Warning: The Hyper Thief has no loyalty circuitry and will steal devices
+from ALL passing ships.
+Device #317.  Hyper Secure                     (8) Retail Value: 900000
+Are your devices being stolen by your own Hyper Thiefs?
+Use Hyper Secure, it hides your ship from Hyper Thiefs so they never
+trigger on your ship.
+Device #318.  Sensor Damper Tripwire           (8) Retail Value: 632750
+Sensor Dampers are virtually useless as a trap because people can't see
+them to be trapped by them.
+The Sensor Damper Tripwire waits for an unsuspecting Ship to enter it's
+Sector and then BAMM, it deploys a Sensor Damper disrupting the Ship's
+sensors.
+Device #319.  Advanced Sector Reflector        (8) Retail Value: 2400000
+Are you aware that if you use a Tech Magic Sector Reflector that it also
+reflects the Sector Number? What good is that?
+Our high tech Advanced Sector Reflector correctly reflects the actual
+Sector Number while displaying the reflected Sector info.
+Device #320.  Toll Station Redux               (8) Retail Value: 37500
+Our most economical free standing Toll Station.
+This one only delivers 1/5 the power of our standard Laser weapon,
+but it is total indistinguishable from the more expense and more
+lethal top of the line Toll Stations.
+Therefore Ships may pay a fee anyway.
+Device #321.  Toll Station w/Maser             (8) Retail Value: 750000
+This Standard Toll Station maintains a full power Heavy Particle Beam.
+Contains Device Bay Missiles for Defense Only.
+Device #322.  Toll Station w/Maxi Beam         (8) Retail Value: 2000000
+This Toll Stations is armed with our heaviest off surface Particle Beam.
+This baby delivers 2« times the power of our ship borne Heavy Particle
+Beams!
+Contains Device Bay Missiles for Defense Only.
+Device #323.  Toll Station w/Device Missiles   (8) Retail Value: 5200000
+If a Ship tries to charge this Toll Station, it will fire a wide spread
+volley of Device Bay Missiles at the offender.
+Contains Device Bay Missile Factory on board.
+Device #324.  Toll Station w/Warp Capability   (8) Retail Value: 6200000
+Runners of this Toll Station will find themselves warped to another
+sector. Only those Ship's equipped with Warp Shield Wedges will be able to
+enter it's sector without paying.
+Device #325.  Team Toll Station Redux          (8) Retail Value: 45000
+Our most economical free standing Team Toll Station.
+This one only delivers 1/5 the power of our standard Laser weapon,
+but it is total indistinguishable from the more expense and more
+lethal top of the line Toll Stations.
+Therefore Ships may pay a fee anyway.
+Remember: Team Toll Stations belong to the Team, not to you.
+Device #326.  Team Toll Station w/Maser        (8) Retail Value: 759000
+This Standard Team Toll Station maintains a full power Heavy Particle
+Beam.
+Contains Device Bay Missiles for Defense Only.
+Remember: Team Toll Stations belong to the Team, not to you.
+Device #327.  Team Toll Station w/Maxi Beam    (8) Retail Value: 2900000
+This Team Toll Stations is armed with our heaviest off surface Particle
+Beam. This baby delivers 2« times the power of our ship borne Heavy
+Particle Beams!
+Contains Device Bay Missiles for Defense Only.
+Remember: Team Toll Stations belong to the Team, not to you.
+Device #328.  Team Toll Station w/Missiles     (8) Retail Value: 5290000
+If a Ship tries to charge this Team Toll Station, it will fire a wide
+spread volley of Device Bay Missiles at the offender.
+Contains Device Bay Missile Factory on board.
+Remember: Team Toll Stations belong to the Team, not to you.
+Device #329.  Team Toll Station w/Warp         (8) Retail Value: 6290000
+Runners of this Team Toll Station will find themselves warped to another
+sector. Only those Ship's equipped with Warp Shield Wedges will be able to
+enter it's sector without paying.
+Remember: Team Toll Stations belong to the Team, not to you.
+Device #330.  Space Madness Sector Infector    (8) Retail Value: 32000
+Space Madness: The Cabal created virus that interferes with the brain
+body interface. An infected persons actions are not those that he intends
+and he does not see what is really there. As the virus is very hard to
+detect and cure, it has been deemed highly illegal to possess.
+But since it is so hard to detect who will know you have it.
+This infector will infect one sector with enough virus to last one day.
+Device #331.  Black Hole Detector              (8) Retail Value: 1150
+No matter how strong you are:
+Black Holes (Natural or Artificial) will destroy you!
+Detect them before they get you.
+Device #332.  Navigator Negator Detector       (8) Retail Value: 170000
+Detect Over Space Navigator Negators before they hamper your travel.
+Device #333.  Warp Shield Detector             (8) Retail Value: 2000
+Don't be left in the dark.
+Federation and private Warp Shields are all around us.
+See what you are up against.
+Very sensitive device revels the exact amount of ergs per Shield.
+Device #334.  Planetary Warp Detector          (8) Retail Value: 11225
+This detector can reveal the presence of Planetary Warp Field Flux.
+If a Planet is in the early stages of Planetary Evacuation this device
+will alert you.
+This is not an active sensor, and must be activated.
+Device #335.  Flashwire Detector               (8) Retail Value: 16500
+Don't be left a sitting duck.
+Detect Flashwires before they blind your ship!
+Device #336.  Homing Trap Decoder              (8) Retail Value: 68215
+This device reveals if a Homing Trap has snared a signal and if so, who
+that signal belongs to.
+Device #337.  Last Ship in Sector Detector     (8) Retail Value: 245750
+The newest in tracking devices.
+This necessity reveals which ship was in your sector last.
+Device #338.  Random Explorer Probe            (8) Retail Value: 15600
+This probe displays the contents of several random sectors.
+Device #339.  Toll Station Identifier          (8) Retail Value: 12050
+This long range sensor displays the identity of Toll Station Owners.
+Device #340.  Toll Station Fee Determiner      (8) Retail Value: 900
+This sensor displays the fee of Toll Stations before they demand homage.
+Device #341.  Infected Planet Detector         (8) Retail Value: 2130
+Space Madness: The Cabal created virus that interferes with the brain
+body interface. An infected persons actions are not those that he intends
+and he does not see what is really there. As the virus is very hard to
+detect and cure, it has been deemed highly illegal to possess.
+This detector will reveal the presence of infected Planets. An ê before
+a Planet's name means the planet is infected.
+Device #342.  Infected Ship Detector           (8) Retail Value: 14120
+Space Madness: The Cabal created virus that interferes with the brain
+body interface. An infected persons actions are not those that he intends
+and he does not see what is really there. As the virus is very hard to
+detect and cure, it has been deemed highly illegal to possess.
+This detector will reveal the presence of infected Ships. An ê before
+a Ship's name means the ship is infected.
+This detected can also detect the presence of the virus in your own ship.
+Device #343.  Planet Alert                     (8) Retail Value: 18000
+Don't risk missing a planet, either by over looking it, or by forgetting
+to scan adjacent sectors. This device lists planets in adjacent sectors
+as soon as you enter that Sector.
+Device #344.  Planet Alert Jr.                 (8) Retail Value: 19750
+Don't rely on your senses to notice a planet. Planet information can go
+unnoticed, lost in the vast amounts of information displayed by your
+sensors. 
+Planets are a gold mine of potential, don't let this happen to you.
+This Sensor attachment device pauses a Sector Display when a planet is 
+detected.
+Device #345.  TransMat Detector                (8) Retail Value: 17500
+This device attaches itself to your sensors and allows them to detect
+TransMats.
+Device #346.  Autopilot Snare Detector         (8) Retail Value: 2000
+This device attaches itself to your sensors and allows then to detect
+Autopilot Snares.
+Device #347.  Infected Sector Detector         (8) Retail Value: 31000
+Space Madness: The Cabal created virus that interferes with the brain
+body interface. An infected persons actions are not those that he intends
+and he does not see what is really there. As the virus is very hard to
+detect and cure, it has been deemed highly illegal to possess.
+This detector will reveal the presence of infected Sectors.
+An ê before the Sector number means the Sector is infected.
+Device #348.  Hunter Drone Detector            (8) Retail Value: 231900
+The Hunter Drone Detector will automatically report on Hunt Packs
+in the area.
+Device #349.  Hunter Drone Scanner             (8) Retail Value: 541000
+The Hunter Drone Scanner require activation to function, but it can
+sense even Hunt Packs in Stealth Mode.
+Device #350.  Hunter Drone Decoder             (8) Retail Value: 100000
+The Hunter Drone Decoder is used to re-program Hunt Packs once
+they have been located by their owner.
+Device #351.  Orbital Cloaking Orb             (8) Retail Value: 400000
+Just because you can't conquer a planet at the current moment, just mean
+that you have to allow your enemies to use it.
+Load the Orb with Cloaking Energy (see #388) an it will cloak the
+Planet from everyone, including you and the owner.
+Device #352.  Dimensional Archor Pad Detector  (8) Retail Value: 1700
+Frankly we are surprised that Tech Magic would make a Device as Devious
+as the Dimensional Anchor Pod (or we're jealous, we wish we made it.)
+so it seemed only fair that we make a unit to detect it.
+Don't risk your Dimensional Wedge or the insanely priced Pan Dimensional
+Drive.
+This sensor detects the presence of Dimensional Anchors as well as
+determines who it belongs to.
+Device #353.  Black Hole Deflector Sensor      (8) Retail Value: 2100
+It is important to be able to detect when your Black Hole Deflector
+Field has dissipated. This sensor will let you detect the existance of
+the Field.
+Device #354.  Sector Mine Launcher Detector    (8) Retail Value: 13000
+Someone attacking you with a Sector Mine Launcher?
+This Sensor allows you to detect and view the programming of Sector Mine
+Launchers.
+Device #355.  Hyper Thief Sensor               (8) Retail Value: 150000
+Hyper Thiefs are a real nuisance, unless you know they are there.
+The Hyper Thief Sensor, can detect the presence of Hyper Thiefs in the
+current Sector.
+Device #356.  Hyper Thief Sensor Deluxe        (8) Retail Value: 770000
+Hyper Thiefs are a real nuisance, unless you know they are there.
+The Hyper Thief Sensor Deluxe, can detect the presence of Hyper Thiefs
+in the current or adjacent Sectors.
+Device #357.  Dimensional Newspaper Scanner    (8) Retail Value: 125775
+Keep up with the daily events of other dimensions without exhausting the
+time & resources required to visit them.
+Device #358.  Dimensional Ranking Scanner      (8) Retail Value: 87275
+Keep up with the growth of other dimensions without wasting the time and
+resources required to visit them.
+Device #359.  Dimensional U.P.S.               (8) Retail Value: 82275
+Physical Laws, Native Customs & Historic Developments vary from dimension
+to dimension. Check them out before you visit.
+Device #360.  Dimensional Catapult Sensor      (8) Retail Value: 60000
+It is always better to know what is out there, than to blunder blindly.
+This Sensor detects Dimensional Catapults from up to one Sector Away.
+Device #361.  PortalScan                       (8) Retail Value: 17000
+The PortalScan probe propels itself thru a Dimensional Portal and relays
+a Scan of the Sector at the destination.
+Device #362.  Dimensional Preview              (8) Retail Value: 599999
+Check out the quality and condition of an unfamiliar Dimension before
+jumping blindly into it.
+This Database Tap, tells you the details of an existing Dimension.
+Device #363.  Infected Port Detector           (8) Retail Value: 140000
+Space Madness: The Cabal created virus that interferes with the brain
+body interface. An infected persons actions are not those that he intends
+and he does not see what is really there. As the virus is very hard to
+detect and cure, it has been deemed highly illegal to possess.
+
+It is virtually impossible to the Space Madness Virus in a port.
+This detector can but only if you are in that sector, long range scans
+will not register.
+Device #364.  Homing Device Detector           (8) Retail Value: 35340
+Discover whether there are any homing beacons on your ship.
+Device #365.  Delacoos Disruptor Detector      (8) Retail Value: 69900
+Don't allow Delacoos Drive Disruptors to damage your GoTos and GoSubs.
+This handy detector sensor can sniff them out.
+This is an activated device, not a constant sensing unit.
+Device #366.  TransView                        (8) Retail Value: 102110
+View a Sector thru a TransMat.
+Device #367.  TransScan                        (8) Retail Value: 207900
+Do a complete sensor scan thru a TransMat Platform.
+Device #368.  Remote Ship Systems Diagnostic   (8) Retail Value: 1175000
+Valuable information can be gleaned by viewing the settings of an
+opponents devices. This device will display those settings.
+Device #369.  Sensor Damper Tripwire Detector  (8) Retail Value: 8300
+Don't get caught unaware by Sensor Damper Tripwires.
+Device #370.  Improved Anti-Cloaking Enhancer  (8) Retail Value: 2000000
+Our Improved Anti-Cloaking Enhancer operates exactly like that of Tech
+Magic's Anti-Cloaking Enhancer except that ours also functions perfectly
+in a Paan Ifth or Redeph, allowing you to put more Anti-Cloaking power in
+fewer bays.
+Device #371.  Sensor Damper Corruptor          (8) Retail Value: 217500
+This device subverts a Sensor Damper's programming so that it becomes your
+Sensor Damper!
+Device #372.  Nova Device                      (8) Retail Value: 1111100
+Again, you didn't get it here...
+This potent package destroys suns!
+Do not use in Federation Sectors!
+Device #373.  Viral Infector Pod               (8) Retail Value: 120033
+From Wilson Selzer Bio-Labs:
+A fully functional Bio-Launch Pod, this was developed to sterilize
+quarantined cargo ships prior to reuse. However a, shall we say, less
+scrupulous person could use it to destroy a planets production of
+Organics.
+Bio-Launch pod contains safety sensor to disable Injector if Sentient Life
+is detected.
+Device #374.  Delacoos Drive Disruptor         (8) Retail Value: 1230900
+Maybe you can't stop GoTos and GoSub from invading your Inner Sanctum,
+but you can stop them from exiting again.
+This Space Platform causes Delacoos Drive based devices to overheat and
+melt down if they are activated from within the Disruptor's field.
+Device #375.  TransMat Missile                 (8) Retail Value: 12675
+This missile has a 50% chance of destroying a TransMat.
+Device #376.  Navigator Negator Missile        (8) Retail Value: 2000000
+Over Space Navigator Negators got you down?
+Destroy them!
+Device #377.  'Planetary Device' Missile       (8) Retail Value: 27555
+Destroying Planetary Devices is one of the toughest projects we are
+working on. A Planetary Device Missile must be able to make it through all
+of the Planetary Defenses and then locate a Device that could be anywhere
+on the planet!
+This is our most up to date model. It offers a proven 7% success rate, but
+still is unable to report success or failure.
+Device #378.  Flashwire                        (8) Retail Value: 80000
+This little hard to detect satellite damages a ships external sensors.
+It is detectable only by the Flashwarp Detector and not by a Safety Stop 
+or any other known means.
+Device #379.  FlashBomb                        (8) Retail Value: 82000
+This missile can burn the sensors of ships in neighboring sectors.
+Device #380.  Inertia Damper Deployment Probe  (8) Retail Value: 49677
+The Inertia Damper Deployment Probe will install one Inertia Damper 
+(included) on a ship in it's sector.
+Device #381.  Remote I.D.D. Probe              (8) Retail Value: 130000
+The Remote Inertia Damper Deployment Probe will install one Inertia Damper
+(included) on a ship in any adjacent sector.
+Device #382.  Space Madness Port Infector      (8) Retail Value: 125000
+Space Madness: The Cabal created virus that interferes with the brain
+body interface. An infected persons actions are not those that he intends
+and he does not see what is really there. As the virus is very hard to
+detect and cure, it has been deemed highly illegal to possess.
+But since it is so hard to detect who will know you have it.
+This infector will infect one port with enough virus to last one day.
+Device #383.  Space Madness Planet Infector    (8) Retail Value: 125000
+Space Madness: The Cabal created virus that interferes with the brain
+body interface. An infected persons actions are not those that he intends
+and he does not see what is really there. As the virus is very hard to
+detect and cure, it has been deemed highly illegal to possess.
+But since it is so hard to detect who will know you have it.
+This infector will infect one planet with enough virus to last one day.
+Device #384.  Space Madness Ship Infector      (8) Retail Value: 125750
+Space Madness: The Cabal created virus that interferes with the brain
+body interface. An infected persons actions are not those that he intends
+and he does not see what is really there. As the virus is very hard to
+detect and cure, it has been deemed highly illegal to possess.
+But since it is so hard to detect who will know you have it.
+This infector will infect one ship. This device is extremely highly 
+illegal, you didn't get it here.
+Device #385.  Explosive Ship Decoy             (8) Retail Value: 1130000
+Much like our Holographic Ship Decoy Beacon, this Beacon pretends to be
+your Ship. But when another Ship gets too close, this Beacon lets fly a
+volley of Device Bay Missiles and then detonates doing devastating damage.
+Device #386.  Multiple Message Beacon Maser    (8) Retail Value: 11225
+Destroying Multiple Message Beacons can be a time consuming pain.
+The Multiple Targeting Message Beacon Maser will destroy all Message
+Beacons in a Sector in one single instant.
+Device #387.  Hunter Pack Leader               (8) Retail Value: 46224
+The Hunter Drone Leader is actually a small programmable robot. One
+of these devices is needed for each Hunter Drone group that you wish
+to launch.  The Hunter Drones themselves are available at Port Sol.
+
+At the time you place them you can program the Hunt Pack with a
+variety of options.  They can scan the universe for you, seek out
+your enemies, or just spread wanton violence in their wake.
+Device #388.  Orbital Cloaking Shuttle         (8) Retail Value: 90000
+Use this reusable Shuttle to transmit Cloaking Energy to the Orbital
+Cloaking Orb.
+Device #389.  Automatic Sector Mine Deployer   (8) Retail Value: 480000
+Automatically Deploy Sector Mines in the Sectors you pass thru.
+This unit can be programmed for Sector Mine Program and Amount deployed.
+This Unit will not deploy Sector Mines in Sectors already containing
+Sector Mines unless they are yours and the programming matches.
+Device #390.  The Paan PrInce                  (8) Retail Value: 2950000
+The newest item from the Paan metaphysisists.
+This device uses their ultradimensional theories to merge almost any two
+Planetary Devices in such a way as to have them still function as
+Planetary Devices.
+Almost all Planetary Devices Function Properly when Paaned.
+Notable exceptions are 392 & 393-399 which only function as the first
+device in the Paan.
+Also Laser Based weapons may also fail completely.
+Devices may only be added to the Paan while it is on your ship.
+Despite these limitations this is an invaluable device for allowing
+your Planets to perform multiple functions.
+Device #391.  Planetary Galvometric Inhibitor  (8) Retail Value: 97000
+This Planetary Device scrambles the circuits of Galvanometric Seeking
+Missiles so that they will not report the existence of the planet.
+Device #392.  Planetary Space Madness Defense  (8) Retail Value: 34570
+Space Madness: The Cabal created virus that interferes with the brain
+body interface. An infected persons actions are not those that he intends
+and he does not see what is really there. As the virus is very hard to
+detect and cure, it has been deemed highly illegal to possess.
+But since it is so hard to detect who will know you have it.
+This device will infect anyone who attacks your planet.
+Device #393.  Planetary Tractor Beam           (8) Retail Value: 137500
+This is a difficult device to use correctly, but with a sufficiently built
+up planet, the Planetary Tractor Beam can snare and hold a serious pest.
+This Device holds fast any ship that snoops around your planet.
+Device #394.  Planetary Invader Popper         (8) Retail Value: 75600
+Why Run away, when you can make this go away?
+This beautiful Planetary Defense System warps Invaders safely out of you
+sector.
+Device #395.  Planetary Emergency Warp         (8) Retail Value: 1253000
+Why Self-Destruct when you can run away?
+If Planetary Defenses are overrun, this outstanding piece of State of the
+Art Warping Technology whisks your planet away to safer location.
+Very High Success rate!
+Device #396.  Planetary Self Destruct          (8) Retail Value: 23000
+If you can't own it nobody should, right?
+This Planetary Device causes your planet to explode if attacked!
+Planetary Explosions cause very serious damage to the attacking ship.
+Device #397.  Planetary Device Bay Missile     (8) Retail Value: 27500
+This Planetary Device fires a Device Bay Missile at attacking ships.
+Device #398.  Planetary DB Missile 5 Pack      (8) Retail Value: 127500
+This Planetary Device fires 5 Device Bay Missiles per attack at attackers.
+Device #399.  Planetary DB Missile 15 Pack     (8) Retail Value: 1727500
+This Planetary Device fires 15 Device Bay Missile per attack at attackers.
+Device #400.  Planetary Production Enhancer    (8) Retail Value: 3000000
+This Planetary Device steps up Planetary Production by 10% daily!
+Device #401.  Cloaking Energy Diffuser         (8) Retail Value: 457500
+This 'one shot' device will completely nullify all cloaking energy in the
+sector. Use with caution.
+Device #402.  Cloaking Energy Diffuser Deluxe  (8) Retail Value: 2000000
+This 'one shot' device will completely nullify all cloaking energy in the
+current and adjacent sectors. Use with caution.
+Device #403.  Mine Replicator                  (8) Retail Value: 94500
+This clever droid device uses a Sector Mine's own repair capabilities to
+create more Sector Mines. It can create one mine per day from every forty
+sector mines in a sector.
+Device #404.  Advanced Mine Replicator         (8) Retail Value: 445000
+This is an improved version of our standard Mine Replicator. With it's
+enhanced programming it can use a Sector Mine's own repair capabilities to
+create one mine per day from every twenty in a sector.
+Device #405.  Advanced Mine Replicator ][      (8) Retail Value: 5445000
+Our top of the line Mine Replicator! Very advanced programming and a
+special scavenger module allows this droid to use the Sector Mine's own
+repair capabilities to create more Sector Mines. It can replicate an
+incredible one mine per day from every ten sector mines in a sector.
+Device #406.  Device Bay Missile               (8) Retail Value: 321000
+Destroy your enemies devices before he gets you!
+About a 70% success rate. And sometimes they're devastating.
+This batch features an automatic launch when attacked mechanism!
+Device #407.  Device Bay Missile Deluxe        (8) Retail Value: 2000000
+This Device Bay missile is defensive only. Your last act of defiance as
+your ship is scattered to dust across the galaxy. This model has three
+warheads.
+Device #408.  Device Bay Missile Silo          (8) Retail Value: 15000
+This is a multiple device bay missile organizer. Each one can handle up to
+200,000 Missile Silo missiles, which are almost identical to defense only
+device bay missiles.
+Device #409.  Missile Silo Missiles            (8) Retail Value: 95000
+Place up to 200,000 of these in your Device Bay Missile Silo and they will
+avenge you upon your destruction.
+Device #410.  Sector Mine Launcher             (8) Retail Value: 36578
+Launch Sector Mines from a Sector to either a random sector or designate
+a destination.
+All or partial amounts of Sector Mines may be launched.
+Launches Sector Mines once per day and no shields or dampers will stop
+the Launcher.
+Device #411.  Special Devices Detection Pack   (8) Retail Value: 500000
+The Special Devices Detection Pack contains the following:
+    1. Black Hole Detector
+    1. Warp Shield Detector
+    1. Last Ship in Sector Detector (without off option)
+    1. TransMat Detector
+    1. Sector Mine Launcher Detector.
+
+Pricey, but a miracle of miniaturization.
+Device #412.  Snare Detector Pack              (8) Retail Value: 120000
+This pack contains:
+    1. Auto Pilot Snare
+    1. Over Space Navigator Negator Detector
+Device #413.  The Wilson Selzer Combo Pack     (8) Retail Value: 293000
+The Wilson Selzer Combo Pack contains:
+
+    an Alarm Clock
+    an Air Purifier
+    a  Speed Landing
+    and a Homing Signal Jammer
+Device #414.  Dimensional Scanner Pack         (8) Retail Value: 2000000
+The Dimension Scanner Pack contains:
+
+    A Dimensional Newspaper Scanner
+    A Dimensional Rankings Scanner
+    A Dimensional Universal Parameters Scanner
+Device #415.  Locator Pack                     (8) Retail Value: 635000
+This probe pack will discover in what sectors your Attack Drones, Sector
+Mines and planets are located.
+
+A must for the forgetful.
+Device #416.  Team Locator Pack                (8) Retail Value: 660000
+This probe pack will discover in what sectors your team's attack drones,
+and sector mines are located.
+
+A must for the forgetful.
+Device #417.  Locator Pack Deluxe              (8) Retail Value: 1100000
+This probe pack will display in what sectors you and your team's attack
+drones, sector mines and planets are located.
+
+A must for the forgetful.
+Device #418.  The Deluxe Dimensional Pack      (8) Retail Value: 4000000
+The Deluxe Dimensional Pack contains:
+
+    A Dimensional Newspaper Scanner
+    A Dimensional Rankings Scanner
+    A Dimensional Preview
+    A Dimensional Identifier
+    A Dimensional Viewer
+    and 3 Dimensional Wedges!
+
+All in one tidy package.
+Device #419.  Space Madness Detector Pack      (8) Retail Value: 220000
+Space Madness: The Cabal created virus that interferes with the brain
+body interface. An infected persons actions are not those that he intends
+and he does not see what is really there. As the virus is very hard to
+detect and cure, it has been deemed highly illegal to possess.
+
+The Space Madness Detector Pack contains:
+
+    An Infected Sector Detector
+    An Infected Planet Detector
+    An Infected Ship Detector.
+
+Remember, better safe than sorry.
+Device #420.  Stealth Pack                     (8) Retail Value: 4320760
+It's a hostile universe out there. It is best to be as hard to detect as
+possible. The Stealth Pack contains:
+
+    a Personal Trail Sweeper
+    a 'No Trail' Drive
+    a Cloaking Enhancer 2x
+    and an Anonymous Radio Signal Id Box.
+
+Remember: Walk quietly and carry and big stick*.
+
+*Big stick sold separately.
+Device #421.  The Tau Pack                     (8) Retail Value: 584000
+The Tau Pack contains:
+
+    a Remote Device Access
+    a Shopping Evaluation Interface
+    The OverThruster
+    and a One Bay Device Protection
+
+A device for the truly sophisticated Captain.  This simple set of
+devices will make your life easier when in Port or on Planets. And
+with the addition of the One Bay Device Protection, it is the first
+invulnerable pack ever designed.
+Device #422.  Wild Hunt Pack                   (8) Retail Value: 85090000
+The Wild Hunt Pack
+
+ Hunter Drone Detector
+ Hunter Drone Scanner
+ Hunter Drone Decoder
+ Hunter Drone Identifier
+ Fuel Shielding
+
+All the devices needed to use and control Hunter Drone groups.
+
+Device #423.  Hyper Cube [10] Factory          (8) Retail Value: 40000000
+This Amazing Onboard Factory pumps out one Hyper Cube [10] every day.
+Device #424.  Planet Device Missile Factory    (8) Retail Value: 275555
+This Amazing Onboard Factory pumps out one Planetary Device Missile every
+day.
+Device #425.  Emergency Sol Return Factory     (8) Retail Value: 3750000
+This Amazing Onboard Factory pumps out one Emergency Sol Return every day.
+Device #426.  Autopilot Snare Factory          (8) Retail Value: 92000
+This Amazing Onboard Factory pumps out one Auto Pilot Snare every day.
+Device #427.  Holographic Ship Decoy Factory   (8) Retail Value: 756100
+This Amazing Onboard Factory pumps out one Holographic Ship Decoy Beacon
+every day.
+Device #428.  Holograph Planet Decoy Factory   (8) Retail Value: 978000
+This Amazing Onboard Factory pumps out one Holographic Planet Decoy Beacon
+every day.
+Device #429.  Dimensional Wedge Factory        (8) Retail Value: 130000
+This Amazing Onboard Factory pumps out one Dimensional Wedge every day.
+Device #430.  R.M.D. 25 Factory                (8) Retail Value: 5500000
+This Amazing Onboard Factory pumps out one R.M.D. 25 every day.
+Device #431.  R.M.D. 50 Factory                (8) Retail Value: 10000000
+This Amazing Onboard Factory pumps out one R.M.D. 50 every day.
+Device #432.  Sensor Damper Factory            (8) Retail Value: 637500
+This Amazing Onboard Factory pumps out one Sensor Damper every day.
+Device #433.  Sector Mine Deactivator Factory  (8) Retail Value: 7500000
+This Amazing Onboard Factory pumps out one Sector Mine Deactivator every
+day.
+Device #434.  Warp Shield Device Factory       (8) Retail Value: 456000
+This Amazing Onboard Factory pumps out one Warp Shield Device every day.
+Device #435.  Warp Shield Wedge Factory        (8) Retail Value: 15000000
+This Amazing Onboard Factory pumps out one Warp Shield Wedge every day.
+Device #436.  Hunt Pack Leader Factory         (8) Retail Value: 462240
+This Amazing Onboard Factory pumps out one Hunter Drone CPU every day.
+Device #437.  Nova Device Factory              (8) Retail Value: 11111000
+This Amazing Onboard Factory pumps out one Nova Device every day.
+Device #438.  TransMat Missile Factory         (8) Retail Value: 126750
+This Amazing Onboard Factory pumps out one TransMat Missile every day.
+Device #439.  Flashwire Factory                (8) Retail Value: 800000
+This Amazing Onboard Factory pumps out one Flashwire every day.
+Device #440.  FlashBomb Factory                (8) Retail Value: 820000
+This Amazing Onboard Factory pumps out one FlashBomb every day.
+Device #441.  Sensor Damper Corruptor Factory  (8) Retail Value: 2175000
+This Amazing Onboard Factory pumps out one Sensor Damper Corruptor every
+day.
+Device #442.  Mine Replicator Factory          (8) Retail Value: 945000
+This Amazing Onboard Factory pumps out one Mine Replicator every day.
+Device #443.  Advanced Mine Repl. Factory      (8) Retail Value: 4450000
+This Amazing Onboard Factory pumps out one Advanced Mine Replicator every
+day.
+Device #444.  Advanced Mine Repl. ][ Factory   (8) Retail Value: 54450000
+This Amazing Onboard Factory pumps out one Advanced Mine Replicator ][
+every day.
+Device #445.  Device Bay Missile Factory       (8) Retail Value: 3210000
+This Amazing Onboard Factory pumps out one Device Bay Missile every day.
+Device #446.  Warp Shield Nullifier Factory    (8) Retail Value: 250000
+This Amazing Onboard Factory pumps out one Warp Shield Nullifier every
+day.
+Device #447.  Stand Down                       (8) Retail Value: 190000
+Drones set to Wander/Subversive add a strategic level to space
+combat.  You can release them, and let them do their work at no
+risk to yourself.  However once victory is achieved it was almost
+impossible to gather your forces.
+
+The Stand Down sends a specially encoded Signal that causes all Attack
+Drones set by your Ship to Wander Viciously or Subvert to Deactivate.
+Stopping their movement makes it much easier to pick them up.
+Device #448.  The Paan AEzpu                   (8) Retail Value: 320000000
+This device has the dubious honor of being the most expensive Specialty
+Device for sale in the Federation.
+
+It contains all functionality of a Master Replicator with storage
+capabilities that would make a Hyper Cube envious!
+
+Simply feed in the Pattern of a Device and this Paan device will produce
+one per day and store it in it's own Hyper Spacial Area. It will then
+deliver them upon demand.
+There is no practical upper limit to how many devices it can store!
+
+Now is that worth every penny?
+Device #449.  The Paan Redeph                  (8) Retail Value: 1450000
+This does everything the Paan Ifth does and more!
+Like the Paan Ifth the Redeph can merge two passive devices into one
+device bay. The Redeph, though, goes beyond that to allow the merging
+of devices that have on/off switches. With these semi-passive devices
+the Redeph fuses the on/off switch on.
+Device #450.  The Paan Ifth                    (8) Retail Value: 650000
+An expensive device .... and worth every credit.
+Developed by Paan metaphysisists this device uses their ultradimensional
+theories to merge almost any two passive devices so that they only take
+one slot, yet still function!
+It is true that a very few types of devices malfunction when packed but
+almost all work fine. Notable exceptions being Mine Deflectors, Particle
+Weapons, and Bay Protectors.
+So if you have space problems, and a cube isn't your answer try the Ifth.
+Device #451.  Black Hole Device                (8) Retail Value: 8900000
+Shhhhhhhhhhhh...
+Okay, it's true, this device is very dangerous and quite illegal...
+It does however come with the Federation disarming module...
+Please use with caution. Once used the sector it occupies is useless
+forever, as every ship that enters it is instantly destroyed, not even
+enough time for an emergency warp!
+Device #452.  Paan Scrubber                    (8) Retail Value: 151000
+Okay, so maybe there is no known way to extract a device from a Paan.
+That doesn't mean you have to let no longer needed devices fill up your
+valuable Paan devices. Now with the new Paan Scrubber unwanted devices
+can be Scrubbed out of existance, leaving your Paan free for more
+important tasks.
+Device #453.  Power HyperHold                  (8) Retail Value: 120000
+Space travel can be expensive and time consuming.
+Physical limitations make it impossible for a maneuverable Ship to carry
+more than 60000 megatons of Cargo. Objects in HyperSpace are not bound
+by the limitations of our Universe.
+The Power HyperHold can store up to 600,000 Megatons of Power Cargo
+without taking up any of your Ship's Cargo Holds!
+Calling the HyperHold with Power in your Holds loads it.
+Calling the HyperHolds with no Power fills your Cargo Holds.
+Device #454.  Water HyperHold                  (8) Retail Value: 160000
+Space travel can be expensive and time consuming.
+Physical limitations make it impossible for a maneuverable Ship to carry
+more than 60000 megatons of Cargo. Objects in HyperSpace are not bound
+by the limitations of our Universe.
+The Water HyperHold can store up to 600,000 Megatons of Water Cargo
+without taking up any of your Ship's Cargo Holds!
+Calling the HyperHold with Water in your Holds loads it.
+Calling the HyperHolds with no Water fills your Cargo Holds.
+Device #455.  Deluxe Bar                       (8) Retail Value: 16250
+Our top of the line refreshment center.
+This deluxe synthesizer can produce over 450,000 different drinks.
+Is fully programmable for personal customization.
+Device #456.  Variable HyperSwap               (8) Retail Value: 26600000
+A variable bay HyperSwap. Enter Number of Bays swap. From 1 to 17.
+Device #457.  Homing Trap                      (8) Retail Value: 185000
+This device snares the control signals of passing ships.
+The signal can then be used in place of the actual ship
+to tune certain devices that lock onto the ship's control
+signals.
+Device #458.  The Eavesdropper                 (8) Retail Value: 43500
+Use this device to listen in on radio messages sent to ships you have
+a homing device on.
+Device #459.  Warp Shield Nullifier            (8) Retail Value: 25000
+Hey, you didn't hear it from us...
+but this little beauty destroys warp shielding.
+Negates 1 erg of shielding.
+Device #460.  Homing Signal Dimension Booster  (8) Retail Value: 19750
+This spiffy signal booster allows your homing devices to report to you,
+even from another dimension.
+Device #461.  Call Tracing                     (8) Retail Value: 37590
+This Directional Signal Tracer determines the Sector that a Radio
+Message was sent from.
+Device #462.  Port HypnoType                   (8) Retail Value: 3250000
+This device uses Kalvinist HypnoTech to change the minds of the owners
+of a port about what type of cargo that they wish to sell.
+Device #463.  Snitch Beacon                    (8) Retail Value: 30000
+This specialty Sector Beacon displays the location of any Ship it is
+locked onto, just like a Homing Signal.
+Device #464.  Snitch Beacon Limited            (8) Retail Value: 40000
+This specialty Sector Beacon displays the location of any Ship it is
+locked onto, just like a Homing Signal.
+This version uses a very low powered transmitter so that the signal is
+only picked up by Ships in the Sector and not by those in adjacent
+Sectors.
+Device #465.  Anonymous Radio Id Signal Box    (8) Retail Value: 13000
+This illegal black box attaches itself to your Federation Sub-space Radio
+and defeats the Identifier signal. This allows messages to be sent in such
+a way that no one can determine who they came from.
+Device #466.  False Radio Id Signal Box        (8) Retail Value: 19000
+This illegal black box attaches itself to your Federation Sub-space Radio
+and defeats the Identifier signal and replaces it with any ID of your
+choosing. This allows radio messages to be sent in such a way as to seem
+to come from somewhere else.
+Device #467.  Hyper Thief Access               (8) Retail Value: 100000
+Okay, so a Hyper Thief has been happily liberating devices from other
+ships for you, how do you get those devices?
+With the Hyper Thief Access!
+Makes a Hyper Thief respond just as if it was an on-ship Hyper Cube.
+Requires Hyper Thief Sensors to function.
+Device #468.  Scavenger Cage                   (8) Retail Value: 10000000
+While we don't condone it, sometimes it is necessary to attack a rival
+or rogue Warship Ship. When these situations occur why let the Renegades
+Devices go to waste.
+Once Initialized the Scavenger Cage waits until your attack has brought
+down your enemies shields, then seconds before his Devices would be
+destroyed, pushes those devices safely up into HyperSpace where the Cage
+can later retrieve them.
+The Cage can hold 8 devices.
+Use of multiple Cages may lead to malfunction.
+Device #469.  Hyper Mini Swap                  (8) Retail Value: 1500000
+This New Hyperspace Device may make our Hyper Cubes obsolete.
+
+This, our mini-model, allows you to swap a bank of five devices at one
+time. Thus allowing you to configure special purpose device groups.
+Device #470.  Team Hyper Mini Swap             (8) Retail Value: 3200000
+This New Hyperspace Device may make our Hyper Cubes obsolete.
+
+This, our mini-model, allows you to swap a bank of five devices at one
+time. Thus allowing you to configure special purpose device groups.
+
+This model combines the best of both worlds by also allowing you standard
+Cube Access.
+Device #471.  HyperSwap                        (8) Retail Value: 5400125
+This New Hyperspace Device may make our Hyper Cubes obsolete.
+
+This Device Allows you to swap a whole bank of fifteen devices at one
+time. Thus allowing you to configure special purpose device groups.
+Device #472.  HyperSwap with Cube Interface    (8) Retail Value: 6200000
+This New Hyperspace Device may make our Hyper Cubes obsolete.
+
+This Device Allows you to swap a whole bank of fifteen devices at one
+time. Thus allowing you to configure special purpose device groups.
+
+This model combines the best of both worlds by also allowing you standard
+Cube Access.
+Device #473.  Team HyperSwap                   (8) Retail Value: 13400125
+This New Hyperspace Device may make our Hyper Cubes obsolete.
+
+This Device Allows you to swap a whole bank of fifteen devices at one
+time. Thus allowing you to configure special purpose device groups.
+This Model is accessible by all the members of your team.
+Device #474.  Team HyperSwap w/Cube Interface  (8) Retail Value: 14400000
+This New Hyperspace Device may make our Hyper Cubes obsolete.
+
+This Device Allows you to swap a whole bank of fifteen devices at one
+time. Thus allowing you to configure special purpose device groups.
+
+This model combines the best of both worlds by also allowing you standard
+Cube Access.
+It is accessible by all your team members.
+Device #475.  Hyper Cube [5]                   (8) Retail Value: 1000000
+This is, in reality, a Hyperspace Relocator & Retriever!
+This unit allows you to store up to 5 devices in hyperspace for later
+retrieval. They don't work while they're up there, but you can get them
+when you need them.
+Fully recursive too!
+Device #476.  Hyper Cube [10]                  (8) Retail Value: 4000000
+This is, in reality, a Hyperspace Relocator & Retriever!
+This unit allows you to store up to 10 devices in hyperspace for later
+retrieval. They don't work while they're up there, but you can get them
+when you need them.
+Fully recursive too!
+Device #477.  Hyper Cube [20]                  (8) Retail Value: 7600000
+This is, in reality, a Hyperspace Relocator & Retriever!
+This unit allows you to store up to 20 devices in hyperspace for later
+retrieval. They don't work while they're up there, but you can get them
+when you need them.
+Fully recursive too!
+Device #478.  Team Hyper Cube [5]              (8) Retail Value: 4000000
+This is, in reality, a Hyperspace Relocator & Retriever!
+This unit allows you to store up to 5 devices in hyperspace for later
+retrieval. They don't work while they're up there, but you can get them
+when you need them.
+Fully recursive too!
+This version is accessible by any member of your team (who has a Team
+Cube!).
+Device #479.  Team Hyper Cube [10]             (8) Retail Value: 7000000
+This is, in reality, a Hyperspace Relocator & Retriever!
+This unit allows you to store up to 10 devices in hyperspace for later
+retrieval. They don't work while they're up there, but you can get them
+when you need them.
+Fully recursive too!
+This version is accessible by any member of your team (who has a Team
+Cube!).
+Device #480.  Team Hyper Cube [20]             (8) Retail Value: 12000000
+This is, in reality, a Hyperspace Relocator & Retriever!
+This unit allows you to store up to 20 devices in hyperspace for later
+retrieval. They don't work while they're up there, but you can get them
+when you need them.
+Fully recursive too!
+This version is accessible by any member of your team (who has a Team
+Cube!).
+Device #481.  Alternate Hyper Cube Access      (8) Retail Value: 3560000
+It is often safe or convienent to have a second Access to Hyper Cube.
+Whether it is to have a way to position things in a HyperSwap, to secure
+a second entrance in case the first is lost, or to give another access
+to your Devices, this device is for you.
+This Device does not work on Team Hyper Cubes.
+Device #482.  Hyper Spacial Device Retriever   (8) Retail Value: 400000
+Is Cube Clutter getting you down?
+Have you got so many Cubes you don't know where your devices are?
+Has a Device Bay Missile cut off access to one of your Cubes?
+
+If the answers to any of these questions are 'Yes', then the Hyper Spacial
+Device Retriever is for you. This device can retrieve devices even if you
+don't know where they are!
+Device #483.  Neon Pink Pear Shaped Blob       (8) Retail Value: 97500
+This Device is of Unknown Origin and defies analysis.
+Device #484.  Small Red Box with an antenna    (8) Retail Value: 250000
+This is a Cabal device.
+It has a simple Nspace transmitter and what appears to be some kind of
+proximity detector. Other than that we're clue less.
+Device #485.  Green & Yellow Cylinder          (8) Retail Value: 1100000
+This is a Cabal device and we are not sure exactly what it does.
+It has what appears to be some sensor circuitry.
+It also has a plasma coupling conduit, but it is definitely not a warp
+device, we think.
+Puzzling....
+Device #486.  Small Black Trapezoid            (8) Retail Value: 900000
+The only known Arcassian Device in Captivity.
+We can't make it work but maybe you can.
+Device #487.  Silver Conical Device            (8) Retail Value: 6000000
+This is a Cabal device.
+When activated this device envelopes the ship with a red glow.
+Then overheats and reduces itself to slag soon after.
+We have no idea what it is for...
+Device #488.  Gold Ball                        (8) Retail Value: 3500000
+This is a Cabal device.
+We can't even crack the casing on this one...
+Device #489.  Master Device Replicator         (8) Retail Value: 275000000
+Our Finest Device.
+This Device can duplicate almost any device at a rate of one device per
+day.
+Device #490.  Alien Devices' Grab Bag          (8) Retail Value: 75000
+This is an Alien Technologies special.
+Every Two Hundredth Device we make or acquire is specially wrapped and
+packaged as a grab bag device.
+Even We do not know what's in them.
+When used, the Grab Bag will dissolve revealing the device within.
+It could be anything in our Catalog.
+Different every time.
+Device #491.  Universal Dislocation Detector   ( ) Retail Value: 100000
+This Device detects area of space that have no warp links leading to them.
+Device #492.  The Taakian Coordinator          ( ) Retail Value: 150000000
+The Taakian Coordinator is the only discovered Taakian Artifact of which
+there are multiples. The Taakian Coordinator is produced by the "Wandering
+Port", The Procurator. The Procurator offers this Taakian Artifact up for
+sale to all who dock there.
+Once installed the Taakian Coordinator reports the locations of the other
+Taakian Artifacts.
+Device #493.  The Supreme Attenuator           ( ) Retail Value: 0
+This Mythic Taakian Artifact is described as being able to recreate
+History and reshape the Universe to it's possessor's will.
+Device #494.  Team Status Extender             (1) Retail Value: 250000
+This Signal Device forwards your Team Signal to the computer of a nearby
+Ship. If the Ship is not already the member of a Team it will accept
+your Signal and function as a member of your Team.
+
+This is specifically useful with new fleet ships.  As soon as you
+take delivery you can add it to the team, avoiding the standard 24
+wait imposed on new team member applications by F.C Legal.
+Device #495.  Marcus Cell                      (1) Retail Value: 100000
+
+Before the advent of the Fusion Cell, space travel was severely limited
+by the amount of fuel a Ship could carry. Serrin Marcus' Ore Conversion
+Cell allowed ships to travel further by converting it's Cargo ore into
+fuel. The Marcus Cell was modified a little after the Fusion Cell was
+created, but is now really just useful in an emergency situation.
+
+Ore   is translated to Fuel Units at 1 Unit per 10000 Units.
+Power is translated to Fuel Units at 1 Unit per 40000 Units.
+
+Device #496.  Planetary Probe Enhancer         (1) Retail Value: 10000
+The Planetary Probe Enhancer more than doubles the integrity of the data
+obtained by a Planetary Probe.
+Device #497.  The F.O.E.                       (1) Retail Value: 100000
+The Factory Output Enhancer doubles the output of any Onboard Factory.
+Be warned however that there is a 3% chance that this increased output
+will permanently damage the factory.
+Also note, that while often confused for one, The Master Replicator is
+NOT a Factory.
+Device #498.  Warrior Planet Engine            (1) Retail Value: 100000
+This Planetary Device adds the ability to drive a Warrior Class Planet
+into any adjacent Sector. Due to the extremely delicate gravity
+manipulations that must be performed, the Planetary Engine automatically
+shuts down if it detects another planet in the vicinity. We hope a have a
+"Ramming Engine" capable of overcoming the deficiency, out by the end of
+the year.
+
+Warning:
+   Attack Drones and Sector Mines are smart enough not to attack
+   anything the size and mass of a planet, however they are very
+   alert to it's presence and will attack your Ship the moment it
+   disembarks the planet.
+Device #499.  Warrior Planet Generator         (1) Retail Value: 100000
+Breeder Planets are great for production but for a planet that can really
+defend itself, you need a Warrior Class Planet.
+Only half the production of a Breeder Class Planet, however it more than
+makes up for that with the following features:
+
+         1. Easy Mobility
+         2. Defensive and Offensive Lasers
+         3. More to Come.
+Device #500.  Breeder Planet Converter         (1) Retail Value: 100000
+This Self Contained Device converts Breeder Class Planets into Warrior
+Class Planets in record time.
+Device #501.  Darque Finder                    (1) Retail Value: 100000
+There are times when it is very important to know how to get to
+The Darque.
+If you can get there from where you are. This device will point the way.
+Device #502.  Device ID Scrambler              (1) Retail Value: 100000
+Stop others from gauging your defenses.
+This Device puts up a field around each device (similar to the Chameleon
+Field) that changes the ID signal of the Device to a random ID signal.
+It therefor completely masks the devices on your ship.
+Note: Does not function on devices in FSA or LSA.
+Device #503.  Command Assignation              (1) Retail Value: 35000
+Federation WarShips come equiped with an Encoded Command Signal, often
+referred to as the Ship ID. It is this Signal that allows external
+devices (Drones, Sector Mines, Planets, etc.) to know who they are
+belong to. This is why you might Captain more than one WarShip, but
+each maintains it's own empire of external objects.
+While this safety measure keeps other WarShips from controlling, or
+gaining control of your Empire, it can be a tremendous pain when you
+require something controlled by another Ship of your Fleet.
+Command Assignation allows you to transfer control of external devices
+from another Ship in your Fleet to your Current Ship.
+The Signal sent only reaches to the adjacent Sector.
+Be Warned: Once initialized, should another Captain manage to get hold
+           of this device, they will be able to control all your Empires.
+Device #504.  Automatic Command Assignation    (1) Retail Value: 350000
+Federation WarShips come equiped with an Encoded Command Signal, often
+referred to as the Ship ID. It is this Signal that allows external
+devices (Drones, Sector Mines, Planets, etc.) to know who they are
+controlled by. This is why you might Captain more than one WarShip, but
+each maintains it's own empire of external objects.
+While this safety measure keeps other WarShips from controlling from
+gaining control of your Empire, it can be a tremendous pain when you
+require something controlled by another Ship of your Fleet.
+Command Assignation allows you to transfer control of external devices
+from another Ship in your Fleet to your Current Ship.
+This Signal is sent Automatically to any Object you approach.
+Be Warned: Once initialized, should another Captain manage to get hold
+           of this device, they will be able to control all your Empires.
+Device #505.  TransDimensional Radio           (1) Retail Value: 666666
+This Sub-Space Radio open a Pan Dimensional Pin Hole into the Dimension
+of your choice, allowing you to send or read messages from other
+Dimensions.
+Also useful if your Computer's Radio is damaged.
+Device #506.  Homing Device                    (1) Retail Value: 19000
+There are times when it is vital to keep track of fellow WarShip Captain.
+Merely attach this device to teh Captain's WarShip and you always will be
+able to instantly determine it's location.
+Device #507.  Augusta Harmony Wave             (1) Retail Value: 6500000
+When Dr. Augusta first published his Harmony Wave theories, they were
+scoffed at and ridiculed. However, using these theories we have
+constructed a device to establish a Harmony Wave within a Warp Shielding
+Field. As long as the Field is stable nothing seems different but should
+a device de-stablize the Field (Like a Warp Shield Wedge) even slightly,
+the resulting feedback will destroy the device.
+Once established the resulting Harmony Wave can only be collapsed by
+nullifying the Warp Shield Field.
+Device #140.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #162.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #244.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #245.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #246.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #508.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #509.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #510.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #511.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #512.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #513.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #514.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #515.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #516.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #517.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #518.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #519.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #520.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #521.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #522.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #523.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #524.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #525.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #526.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #527.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #528.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #529.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #530.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #531.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #532.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #533.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #534.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #535.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #536.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #537.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #538.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #539.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #540.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #541.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #542.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #543.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #544.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #545.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #546.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #547.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #548.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #549.  Device Not Available                 Retail Value:0
+ This item is not installed in the game
+Device #550.  Device Not Available                 Retail Value:0
+ This item is not installed in the game

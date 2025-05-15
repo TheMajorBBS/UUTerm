@@ -1,0 +1,227 @@
+*******************      Backgrounf Info      ********************
+
+First, d/l UUDEV14.ZIP (device manager) and UUSTART1.ZIP (beginners help
+file), also d/l UU161.ARJ (this is the game itself).
+Check these names to make sure they are spelled right. BTW, if you d/l
+UU161 then UUSTART1 will be in it, no need to d/l duplicates.
+
+Playing the game at home on your own computer is the BEST advice I can
+give. You see, in UU if you lose your ship, you lose EVERYTHING you own
+including planets. Therfore before you do anything on-line, you should
+test it out on your home game.
+
+Secondly, try to get the TW conference on RIME or Metrolink. The UU
+author is active there and can answer any questions. Also many tips and
+strategies are discussed.
+
+Oh yeah, if you d/l UU161 there is another program in there called
+UUHELP that gives info about the game that is helpful.
+
+Now that we have all the software tools out of the way, lets get down to
+playing.
+
+Goal in UU: There are 4 Taakian artifacts (most hidden on planets) in
+the game that you must find. Once you acquire all 4, you can create a
+device called the Supreme Attentuator. When you have the SA device and use
+it...Whamm---- You end the game and become Lord of Creation. All players
+are kicked out, AND you are allowed to create your own custom universe
+and rules, that all other players must abide by.
+
+*********************   How To Progress In UU   ******************
+
+Now lets get into play. I personnaly think there are 4 stages to UU
+that must be kept in mind.
+
+1) Your first 3 days playing. This is the most crucial step and prepares
+you for the rest. In your first three days in the game, you are given
+BIG discounts at port 1. Take advantage of this by buying all your holds
+(60,000) and as many Ant-Cloaks and Cloaks as possible.
+
+There are several files out that will tell you what to do the first few
+days. One such file can be found with my UU utility UUDEV13.ZIP (UUDEV14
+soon to be released).
+
+2) After that you are set for stage 2. Find a sector that has a port
+that sells ALL. Here you will make your home planet. Create a planet and
+put up the neccessary defenses. Then try to put all the stuff in the
+port on your planet. To do this you need MUCHO credits (35-50 mill).
+Maybe spend one more day trading at a paired port for the cash.
+
+Once you have finished this stage, you'll probably never need to trade
+again. My best day so far has been 6 billion credits in one day.
+
+Stage 3) This is where you build a daily salary (yes you can get credits
+for FREE from the Feds), explore and Wreak havoc on other players and
+planets. This is where the fun begins.
+
+First you need to start Cabal hunting (you'll need a bunch of devices
+for that). Start exploring the universe with the Grand Travellar. Make
+sure you have a Cabal Invasion Pack, and a Heavy Particle Beam will also
+help. The Travellar makes moving easier, the Invasion Pack allows you to
+reprot the Cabal you find to the Feds who will give you money for the
+info. And the Particle Beam will kill Cabal without the need of one
+single fighter(drone). More on this later.
+
+Not only do you get paid for each Cabal drone you report, but you can
+earn a salary by destroying the Cabal. While in UU hit C;O to see how
+much you earn per day. I'm at 250 million credits a day now. As you
+can see I no longer need to trade. The money is put on your ship each
+day when you first log on.
+
+The fastest way to find Cabal to kill is to again use your Invasion Pack
+and "Request a Mission" from the Feds. They will tell you where the
+Cabal is, you go into the sector of Cabal and your Particle Beam 
+vapoizes them and you get the money. DON'T go into the sector if it has
+mines unless you have weapons to destroy the mines. If you come across
+this situation it requires a different approach.
+
+Also if you have an extra 35 mil laying around, go to port 10 and get a
+Multiple Targeting Enhancer. This will multiply your firepower x 65.
+With one of those and the Particle Beam, you can destroy 3.5 million
+drones at a time. More than you will need to destroy drones in a sector,
+and VERY helpful when invading planets as many have 3.5 million on the
+surface in defense (which is why when you build a planet, you better put
+more than 3.5 million drones on it if you want to keep me out).
+
+Oh yeah, before exploring, make sure you have a Random Emergency Warp
+device. This will protect you in case you accidently wander into a
+sector with mines.
+
+4) Once you have a good salary and money coming in, you can then spend
+your time looking for the 4 artifacts, destroying Cabal planets,
+messing with others, etc..
+
+***************   How To Travel To Other Dimensions  *************
+
+      1. Go to Port 9 and get the Free Dimensional Booster Signal.
+         This will keep your holdings in other dimensions active.
+         Do not put it in a Cube, a Paan or the FSA.
+
+      2. Get a Pan Dimensional Viewer.
+         This will allow you to look before you leap.
+
+      3. Get a Pan Dimensional Drive
+         (a few Dimensional Wedges is a good idea as well in case of
+          outlawed devices in other dimensions.)
+
+Also it is best to stalk up on supplies as they may not be available in
+the other dimensions.
+
+Use the Pan Dim Viewer to see it the coast is clear and then if it is
+use the Dim Drive to go there. If it isn't move to another Sector and
+try again. Repeat procedure when returning to the previous dimension
+even if you are in the same sector.
+
+*************  How To Destroy Other Ships And Planets  ***************
+
+To destroy another player, use a Ship To Ship Scanner to see how many
+drones they have and if a Dead Man's Switch is present.
+
+A heavy radiation sheilding device # 294 from port 8 will counter the
+deadman's switch if they have one. To take out the drones, just make sure
+you have more then they do when attacking. You can also leave drones or
+mines in their sector so they will destroy themselves when they log on.
+
+The way to take a planet is sonic thumpering it to just about extinction...
+First, use a Planetary Probe (available at port 1) to check the planets
+defenses. If it is weak, usually one Sonic Thumper will destroy it. If it
+has many drones and mines, the Sonic Thumper will kill those off so you can
+invade with your drones. Before you invade though, Probe it again to make
+sure it is weak enough. Then Force a landing.
+
+If your Sonic Thumpers dont work then you need to attack the planetary
+device with a planetary device missile until your thumper starts working.
+Its best to use about 30 planetary device missiles on a planet first just
+to make sure you have destroyed the devices... it doesnt tell you if you
+have or not so the more the better.
+
+You should get a Team Cube and load it with all your important devices and
+then get Two Bay Protectors and space them with the juxtapose command to
+cover all your bays with protection, then you make sure you have lots of
+drones and land on the planet.
+
+*******************  One Way To Design Your Ship  ********************
+
+Anyway to destroy and pillage I have configured my ship in the following
+manner which has worked well for me:
+
+1                           13
+2  Two Bay protector        14 Two Bay protector
+3                           15
+4                           16
+5  Two bay protector        17 Two bay protector
+6                           18
+7                           19
+8  two bay protector        20  Two Bay protector
+9                           21
+10                          22
+11 Two bay protector        23  Two bay protector
+12                          24
+
+With this set-up I have been hit by battle debris and more and never
+lose a bay. In fact I walk into sector with 1000 mines and don't get
+hurt.
+
+This leaves me 12 free bays.
+1) 1 and 3 have my Cube(20)s.
+2) 4 and 6 have my Paan Ifths' one has 2 anti-cloak enhancer and the
+   other 2 cloak enhancers.
+3) 7, 9, 10, 12, 13, 15, 16, 18, 19 , and 21 carry all my sensors, macro
+   computer, Cabal invasion
+4) 22 and 24 are kept open in order to take items out of the cubes.
+   While exploring, you can use these 2 for a Drone coordinator or
+   whatever. When trading, put trading things there etc...
+
+My 2 Cubes contain the following: 1 carries all my 'Planetary' missles
+and Sonic Thumpers for invading. The other carries weapons and devices I
+can use in sectors or against other players.
+
+Been very successful with this simple setup. Only 62 devices here, But
+if an item comes up I can always go to the store and get it. After an
+invasion I always make sure to go back and fill up my cube with missles
+again.
+
+********  Devices to cause destruction to players, planets  *********
+
+Device #54.   Device Bay Platform              (6) Retail Value:405000     
+Device #55.   Device Bay Platform Missiles     (6) Retail Value:100000
+Device #59.   Sector Popper Popper             (6) Retail Value:160000     
+Device #79.   HyperSwap Trigger Missile        (6) Retail Value:50000      
+Device #121.  Hyper Thief Missile              (6) Retail Value:90000      
+Device #124.  Sonic Thumper                    (6) Retail Value:42500      
+Device #127.  Mine Launcher Missile Deluxe     (6) Retail Value:27500      
+Device #128.  Toll Station Missile             (6) Retail Value:10000      
+Device #132.  Heavy Particle Beam              (6) Retail Value:600000     
+Device #179.  Nordic Warrior Pack              (6) Retail Value:2504333    
+Device #207.  Snitch Beacon Repatriator        (6) Retail Value:350000     
+Device #238.  Ship Extractor                   (6) Retail Value:67525      
+Device #241.  Warp Shielding Transport Device  (5) Retail Value:127600     
+Device #270.  Autopilot Snare                  (8) Retail Value:9200
+Device #261.  Dimensional Catapult             (8) Retail Value:130000     
+Device #308.  Dead Man Switch                  (8) Retail Value:67500      
+Device #314.  Warp Shield Wedge                (8) Retail Value:1500000    
+Device #315.  Surveillance Feedback Emitter    (8) Retail Value:925000     
+Device #316.  Hyper Thief                      (8) Retail Value:6000000
+Device #318.  Sensor Damper Tripwire           (8) Retail Value:632750     
+Device #321.  Toll Station w/Maser             (8) Retail Value:750000   
+Device #368.  Remote Ship Systems Diagnostic   (8) Retail Value:1175000
+Device #372.  Nova Device                      (8) Retail Value:1111100    
+Device #375.  Teleporter Satellite Missile     (8) Retail Value:12675      
+Device #377.  'Planetary Device' Missile       (8) Retail Value:27555
+Device #378.  Flashwire                        (8) Retail Value:80000      
+Device #379.  FlashBomb                        (8) Retail Value:82000      
+Device #386.  Multiple Message Beacon Maser    (8) Retail Value:11225      
+Device #406.  Device Bay Missile               (8) Retail Value:321000     
+Device #410.  Sector Mine Launcher             (8) Retail Value:36578 
+Device #451.  Black Hole Device                (8) Retail Value:8900000    
+Device #491.  Universal Dislocation Detector       Retail Value:100000     
+*****************************************************************
+Well, I hope you have found this info helpful. Good Luck
+
+Will Boyett
+Author of:
+UUDEVICE (UUDEV14.ZIP)
+UUPORT   (available only with registration of UUDEVICE)
+UUTERM   (UUTERM11.ZIP - EGA interface for UU)
+TWTRAK   (TWTRAK30.ZIP - Trade Wars utility)
+UUTIPS   (UUTIPS10.ZIP - This Doc)

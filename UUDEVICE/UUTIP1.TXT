@@ -1,0 +1,128 @@
+So you want to learn Ultimate Universe, heh? 
+
+When you first play, there 2 specials going that you should take 
+advantage of. First the port in sector 1 is giving big discounts the 
+first 3 days. Use this to your advantage by buying as many holds as possible
+within the first 3 days (you should be able to get all 60,000 the first day).
+
+Secondly, the port in sector 6 will give you your first item FREE, as 
+long as the cost is 500,000 or less. So get the most expensive item
+allowed. This is where a 3rd party utility can really pay off. Use
+UUDEVICE to list the devices in this price range.
+
+*********************************************************
+Here is my strategy for the first three days...
+
+1) Go to sector 6 and buy device #178. It will be FREE as long as this is
+your first time there. This device is silencer pack that will turn off port
+displays so you can trade very quickly.
+
+2) Now you need to buy the following items:
+
+Device #37.   Auto Pilot [10]                  (6) Retail Value:12350      
+Device #40.   Random Emergency Warp Device     (6) Retail Value:78500      
+Device #92.   Explorer Path Deluxe             (6) Retail Value:294999     
+Device #161.  Starter Pack                     (6) Retail Value:128695     
+Device #165.  Danger Pack                      (6) Retail Value:108000     
+Device #212.  The Auto Trader                  (6) Retail Value:10000      
+Device #276.  The Gosub                        (8) Retail Value:913000     
+Device #363.  Infected Port Detector           (8) Retail Value:140000     
+Device #411.  Special Devices Detection Pack   (8) Retail Value:500000     
+
+All devices numbered 240 or less are at sector 6 the rest are in sector 8
+
+*TIP* You can have UUDEVICE create a UU macro that will automatically
+      buy all the items for you. Simply enter the above items into your
+      picklist, then instruct UU to create the macro. 
+      (See UUDEVICE.DOC for more info)
+
+To get you started even quicker..here is the macro that you can load into
+your comm programs View window, then cut a paste onto the UU command
+line. Cut, paste, and execute one line at a time.(make sure your ship
+is in sector 8 when you start the macro):
+
+P;B;276;Y;B;363;Y;B;411;Y;Q;
+M;7;M;6;P;B;37;Y;B;40;Y;B;92;Y;B;161;Y;B;165;Y;B;212;Y;Q;
+
+3) Now that you have all your items use the "U" command at the main menu.
+From here you can turn on any device that is off. TIP: keep #178 (the
+Silencer Pack) off until you are actually ready to start trading.
+
+4) Now that everything is on the ship and activated, you need to make 
+some quick credits. Go to sector 10 and port. Access the port menu.
+Here you can get a list of ports and what they have to offer.
+
+Look for a port that sells Water. Look at the prices they charge. Try to 
+find one that sells Water around 20 and buys Power at 22 or more.
+
+Now look for a port that sells Power around 16 and buys Water at 27 or
+more. Make sure each port has plenty of the commodities on hand.
+Now that you have one of each, these will make up your paired port.
+
+TIP: It is wise to get at least 3 ports each of Water and Power in case one
+port is infected or blocked by Cabal.
+
+5) In order to trade for big bucks you need lots of holds. Go to sector
+1 now. First buy 4 Gate warps (used to connect your 2 ports together),
+Then buy as many holds as you have credits.
+
+6) Now you are ready to go to your paired port. Use device #92 to make
+sure you have a clear path to one of your ports (type: V;92). If all is
+clear use device #37 (type: V;37) to take you to one of your ports.
+
+7) Now that you are in a sector that has one of your ports, you need to 
+use the Gate Warp to attach the other port to this one (provided the port
+is not infected-your Infected Port Detector will warn you). Press "W;2" to
+do that. Now move to your second port which should now be an adjacent
+sector. Again use the "W;2" command to link the second port back to the first.
+Now you have two great ports next to each other.
+
+9) The fastest way to trade is to use a macro and make sure you have
+device #178 on. To make the macro enter: P;M;#;P;M;#\ (where # is the
+sector number the 2 ports are in). To start trading hit "<CTRL> N".
+Do it over and over until you have enough credits to double your holds.
+
+10) Once you have enough to double your holds (should still have 140
+turns left) you need to get back to sector 1 and buy more holds. This
+is where the GoSub you bought comes in. Use it to take you to sector
+1. Buy your holds and use the Gosub to return back to your paired port.
+(The first time you use the Gosub, you will need to move to sector 1 to 
+lock onto that sector. From then on you can use it to go back and forth
+in only 2 turns)
+
+11) Use your macro again to start your trading. After about 40 more
+turns you should have enough credits to double your holds again
+Do it again after 40 more turns.
+
+12) When you're down to 10 or so moves, use the GoSub to take you back
+to one. Buy as many holds as possible. If any money is left over, buy
+as many Anti-Cloaks as possible (eventually you'll need about 20,000)
+(Tip: if you have plenty of time left, buy more turns instead. You can
+then keep trading for more bucks)
+
+13) Move to a sector that has Fed drones and mines in it. Quit the game.
+    Put the extra turns in your fusion cell.
+
+****************** First day is over ************************
+
+At the end of your second day of trading you should have maximum holds.
+
+Once you have Max holds start accumulating cloaks and anti-cloaks.
+I like to get about 5003 cloaks and 20,000 anti-cloaks before proceeding.
+
+You should have max holds and the above cloaks/anti-cloaks before the
+third day ends. After the third day is over, all prices on these items
+go up to full value. GET THEM WHILE THEY ARE CHEAP!
+
+If you want to know what to do after the third day, then please register.
+I'll send you more tips on what to do from here. Things like; what devices
+are best for exploration, which devices are best at finding other planets,
+and the best way to defend your planet.
+
+******************************************
+
+Well that's all for now. Please register and I'll send you even more
+tips. Thanks for trying UUDEVICE. 
+
+Will Boyett.
+Author of UUDEVICE, TWTRAK, UUPORT

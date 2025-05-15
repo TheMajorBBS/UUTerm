@@ -1,0 +1,85 @@
+First there are only 3 ways to view devices in UUDEVICE.
+
+1) View by a text search. You enter the text like: warp, Path, R.M.D. or
+whatever. UUDEVICE searches the names AND descriptions of devices to
+find a match. Then displays those to the screen. If you like what you
+see, you can save the file to disk. UUDEVICE gives the filename an
+extension of .DEV. (personally I don't save these)
+
+2) Search by price. This can be confusing. You can use the =, <, or >
+symbols to specify a price range. Then use the price but DON'T use any
+commas in it. Examples: <1 will show all FREE items. >5000000 will show
+all items over 5 mil. And if you want to specify a price range, say
+between 1 to 5 mil do it like this:  >1000000<5000000 or
+<5000000>1000000
+
+3) List all the Device names. This displays only the device names of the
+devices now in the game, along with it's price and location.
+
+When you see a device you like, hit <INSERT> or click on the right mouse
+button. A window pops up and you type in the number of the device you
+like. This device is now entered into your picklist.
+
+When done searching devices, go to the picklist menu. If you want to
+view your picklist or see how much it will cost to buy the items on your
+picklist, choose the View/Edit option. (you can also delete items from
+the list while here).
+
+Now that you are satisfied with your picklist, you can save it to disk,
+or create a macro out of it. Making a macro will create the macro and
+save it to disk. Then when on-line in UU, paste the macro to the screen,
+execute it and it will go to the ports buying the things in your
+picklist for you.
+
+WARNING NOTE:  
+
+The macros created here, only work with UU 2.02 or later. If you
+are still playing in UU 1.63 then you will have to ship this or modify
+the macro to work with the ports in UU 1.63. You see, starting with 
+UU 2.02 the location of the ports have changed.
+
+UUDevice will create 2 different macros depending on your needs.
+The BUYFED.MAC deals with the ports in the main Fed strip. Ports 1 thru 7.
+Start this macro in sector 1 and it will move to all the necessary ports
+buying what it needs.
+
+The BUYALIEN.MAC works only at the port, Alien Devices, LTD. You'll have
+to find that port then go there to run that macro. This port is located
+in the secondary Fed strip called the Fringe.
+
+*****************************************************************
+For those who want to use the MACRO feature and need more advice,
+here is how you do it with  Telemate (if you don't use Telemate
+then read your comm programs docs for more info on this).
+
+                        >>>>>>><<<<<<<<<
+
+In Telemate, open the EDIT window. Then LOAD a file (the macro file,
+will have an extension of .MAC with a filename you specified).
+
+Your macro should now be in the window. Most of the time you will see
+the macro taking 1-4 lines (yes, the macro gets very long). You can paste
+one line at a time, or add the second line to the first then paste.
+
+To paste do this..
+1) take the mouse and put it at the beginning of line 1. Hold down the
+left mouse button and move the mousepointer to the end of your macro.
+You should see the the whole macro highlited.
+2) Go to Telemates EDIT option on the main menu bar and click on
+it. Up pops the EDIT window, choose COPY. Now the macro is in memory and
+ready to be pasted.
+3) Hit the <ESC> key until all EDIT windows are gone and you are back to
+the normal looking display. UU should be sitting there still waiting for
+you to input something. Hit <ALT P> and Bingo! Your macro gets pasted
+right into UU. Hit <ENTER> to excute it.
+
+Hope this all helps. Have fun.
+*************************************************************
+
+For even more power, and to bypass the cut and paste method. Use UUTERM
+(the graphical interface for UU), when you play. You can run all
+your macros in that from a hotkey. I highly suggest you use UUTERM for
+your playing needs. It can be found as UUTERM21.ZIP (works for UU 1.63
+only). A new upgrade for UUTERM is in the works and it will be designed
+to work with UU 2.o2 and later versions.
+

@@ -1,0 +1,238 @@
+                             UUDEVICE
+                            VERSION 2.1
+        Copyright 1995 by Will Boyett - All rights Reserved
+
+
+*WARNING*     You will need the following to properly run UUDEVICE:
+                     EGA or better graphic card
+                          DOS 2.0 or later
+                          450K free memory
+*************************************************************************
+
+                      DISCLAIMER OF WARRANTY
+
+THIS SOFTWARE IS SOLD "AS IS" AND WITHOUT WARRANTIES AS TO PERFORMANCE OF
+MERCHANTABILITY OR ANY OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED.
+BECAUSE OF THE VARIOUS HARDWARE AND SOFTWARE ENVIRONMENTS INTO WHICH THIS
+PROGRAM MAY BE PUT, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED. 
+
+*************************************************************************
+What's new in 2.1
+
+Mainly fixed a bug that omitted certain devices from the search.
+
+*************************************************************************
+To run UUDEVICE for the first time, take  the following steps:
+
+                     For Floppy Drives
+
+     1. Boot DOS (version 3.0 or later) on your system.
+     2. Put the UUDEVICE Master disk into drive A.
+     3. Logon to drive A: by typing:  "A:"
+     4. Make sure the data files Device.Con or Device.Doc is on the
+        same disk as the UUDEVICE program.
+     5. Type: UUDEV
+
+                     For Hard Drives
+
+     1. Boot DOS (version 3.0 or later) on your system.
+     2. Copy UUDEVICE files to the directory where you store your
+        Ultimate Universe data files or create one if just starting out.
+     3. Type: UUDEV
+
+***************************************************************************
+What is UUDEVICE
+
+UUDEVICE is an off-line (can be used on-line) utility for the popular BBS
+door game Ultimate Universe.
+
+A utility such as this allows you to plan your next days strategy off-line
+at your own leisure. Thereby allowing you more time on-line for other good
+stuff.
+
+UUDEVICE is a database manager for the 500 devices found in UU. Having 500
+devices to choose from can be very confusing , not to mention time
+consuming to study.
+
+That's where UUDEVICE comes in handy. Think of it as a SEARS catalog. You 
+can search for a device by name, description, or price. If you find a 
+device you like, you can add it to your shopping list.
+
+Once your shopping list is done, you can view it, save it, or edit it.
+You can also ask UUDEVICE to create a macro that can be used on-line to
+handle all your shopping automatically. This can be a BIG time saver.
+
+***************************************************************************
+How to use UUDEVICE 
+
+For UUDEVICE to function it needs a database. In fact it uses two files.
+One is called DEVICE.CON and the other DEVICE.NAM. Where do you get these
+files?
+
+DEVICE.NAM is created from DEVICE.CON and is a text file of the device
+names. As long as you have DEVICE.CON, UUDEVICE can create this one.
+
+DEVICE.CON is a text file of the device names and descriptions. I am
+including a DEVICE.CON file here with this utility. However, should you
+lose it, or perhaps a newer version of UU should come out with more devices,
+then UUDEVICE can create a new DEVICE.CON file from the DEVICE.DOC file
+that comes with UU.
+
+The following is an explanation of the various options in UUDEVICE
+
+
+                     <<<<<    CONVERT     >>>>>
+
+This option only appears on the main menu when there is no database for
+UUDEVICE to work with.  Use this if you lose your DEVICE.CON file, or
+if you want to upgrade your database to a newer version of ULTIMATE
+UNIVERSE (current version as of this writing..2.02).
+
+                   <<<<<    SEARCH BY TEXT     >>>>>
+
+This option allows you to search device names and descriptions for a
+matching text string. Really helpful for finding items that pertain to
+a particular task.
+
+For instance.. enter "Cabal" or "cabal" for devices that pertain to the
+Cabal. Or try "Warp" for items that help/discourage warping. Play with
+it and see what you come up with.
+
+All groups of devices can optionally be saved to disk automatically.
+
+*TIP:  this feature is case sensitive. So entering "warp" or "Warp" will
+produce two different lists. However, if you save both lists to disk,
+you can merge them into 1 using the new MERGE feature.
+ 
+                  <<<<<    SEARCH BY PRICE    >>>>>
+
+Don't find much use for this, but it does help locate the FREE items.
+The most useful use for this is before you have ever played UU. You
+see.. the first time you play, the store at port 6 gives you 500,000 credit
+towards any device. Naturally you'd want to choice an item that costs as
+near to 500,000 as possible.
+
+To find those items, enter at the prompt: >400000<500000
+This shows all devices greater than 400,000 credits yet less than 500,000
+
+Other valid parameters are.. >10000000 to list all items over 10 mil.
+Or <1 to show all FREE items.
+
+                   <<<<<    SEARCH BY NAME    >>>>>
+
+This is the option that creates the DEVICE.NAM file needed by UUDEVICE.
+If the DEVICE.NAM already exists, then you can use this to view the names
+of the 500 devices. You'll also get info on where to buy the device, along
+with it's price.
+
+
+                      <<<<<    PICKLIST    >>>>>
+
+The Picklist (shopping list) allows you to save the devices you like to
+memory. You can save up to 24 items. To enter a device number into your
+shopping list, hit the INSERT key or click on the right mouse button.
+
+The Picklist menu offers options to help you manage your shopping list.
+You can Edit it to remove devices you no longer want. View it, print it,
+and/or save it to disk.
+
+                        <<<<<    MACRO    >>>>>
+
+This option allows you to take a Picklist that is in memory, and make a
+macro that will do your shopping automatically.
+
+When the macro is made it is saved to disk. To use the macro, open your
+communications program's View (or Edit) window and load the .MAC file 
+you want into it. Then Cut and Paste the macro to the screen to execute.
+
+WARNING NOTE:  
+
+The macros created here, only work with UU 2.02 or later. If you
+are still playing in UU 1.63 then you will have to skip this or modify
+the macro to work with the ports in UU 1.63. You see, starting with 
+UU 2.02 the location of the ports have changed.
+
+UUDevice will create 2 different macros depending on your needs.
+The BUYFED.MAC deals with the ports in the main Fed strip. Ports 1 thru 7.
+Start this macro in sector 1 and it will move to all the necessary ports
+buying what it needs.
+
+The BUYALIEN.MAC works only at the port, Alien Devices, LTD. You'll have
+to find that port then go there to run that macro. This port is located
+in the secondary Fed strip called the Fringe.
+
+                        <<<<<    PRINT    >>>>>
+
+The Print menu allows you to print the .DEV and .LST files you have created.
+You can also use this to print the names, prices, and locations of the near
+500 devices in the game.
+
+If you start printing and wish to escape before done, then hit the <ESC>
+key. This will stop sending info to the printers buffer.
+
+NOTE: the  print buffer may have info in it before you abort. In that case
+it will keep printing what is left in the buffer before it stops. If you
+have a large buffer, this could take some time. In the meantime, UUDEVICE
+is free to use while the printer is finishing up. If you don't want what's
+left in the buffer, then just turn off the printer.
+
+***************************************************************************
+If the program doesn't work
+
+If you have trouble getting this program to run  properly,  check this
+document or use UUDEVICE's on-line help. Chances are you will find
+information to help you  there. If you can 't find the solution to your
+problem in the document feel free to contact me at the places listed
+below. We are a small company but our policy is to support what we sell
+as best we can.
+
+SUPPORT BBS: (213) 221-0172  or (213) 227-7127
+VOICE PHONE: (310) 924-4184 
+       MAIL: 11955 209th St, Lakewood, CA 90715
+     FORUMS: Trade Wars conferences on RIME, Metrolink, and Wildnet
+             Ultimate Universe conference on RIME
+   INTERNET: wboyett@ANNEX.COM
+   MAJORNET: Will Boyett@ANX
+
+***************************************************************************
+
+                      FILES FOR UUDEVICE
+
+              UUDEV.EXE          Main program
+              !READ.1ST          Some important info before you begin
+             !UUDEV.TIP          Tips on how to use UUDEVICE
+             !UUDEV.DOC          This documentation
+              UUDEV.GFX          Graphic file
+             DEVICE.CON          Device database
+
+                  FILES CREATED BY UUDEVICE
+             
+         DEVICE.CON          Data file of devices made from Device.Doc 
+         DEVICE.NAM          Data file of device names made from Device.Con
+         .DEV FILES          Group of related devices
+          .LST FILE          Saved Picklist
+          .MAC FILE          Macro file
+
+*************************************************************************
+Special Thanks To:
+
+I would like to take this space and thank all the folks who helped in the
+development of UUDEVICE.
+
+1) I want to first thank Garth Bigelow for the Ultimate Universe game.
+2) Also thanks go out to Andrue Carr and Christopher Darque for their ideas.
+3) Special thanks to Alan Dietrich, Sysop of Target Range BBS for his
+   permission to debug UUDEVICE on his BBS.
+3) Thanks to Nathan Haines for Beta-Testing.
+4) And Thanks to all the BBS's that help distribute UUDEVICE to the public.
+
+*************************************************************************
+
+That's all there is to it. Happy hunting, and I hope it helps add to your
+personal arsenal of tools for Ultimate Universe. If you should have
+any suggestions or ideas about UUDEVICE, or if you find a bug drop me a line.
+
+Will Boyett
+Author of UUDEVICE,TWTERM, UUTERM, and TERMTA
+

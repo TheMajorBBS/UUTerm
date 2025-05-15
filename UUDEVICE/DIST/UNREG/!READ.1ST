@@ -1,0 +1,18 @@
+UUDEVICE has been tested to work with the these versions of UU:
+
+UU 1.63  (all should work except macro making feature)
+UU 2.02
+--------------------------------------------
+
+Included in this package is the device Database for UU 2.02
+
+If you play in a different version of UU then you can still use UUDevice
+on your games device database. Here's how:
+
+1) Delete Device.Con
+2) Download the DEVICE.DOC file for the version of UU that you are in.
+3) Put the DEVICE.DOC file into your UUDevice directory.
+4) Start UUDevice and select the "Convert" feature. It will then take
+   the .DOC file and convert it into a format that UUDevice can use.
+   The file will be saved to disk as DEVICE.CON
+
