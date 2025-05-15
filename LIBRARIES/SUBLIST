@@ -1,0 +1,127 @@
+My subroutines\functions as of 03-08-1994
+
+subs\COMM        
+
+ANSIEMUL.BAS  'ANSI Emulator
+ANSIMOVE.BAS  'move lines, columns with ANSI.SYS
+CHKBAUD.BAS   'checks for baud rate
+CHKBAUD2.BAS  'finds baudrate connected at
+CLRBUFF.BAS   'Purpose : To clear the modem buffer
+DETECTC.BAS   'Purpose : Detects carrier.
+DTRHELP.TXT   '3 ways to not drop carrier when exiting QB
+
+subs\FILE-DIR    
+
+CHGDRV.BAS    'Adds PDS 7.X CHDRV command to QB 4.5
+CHKDRIVE.BAS  'Finds and lists all drives on a system
+COPY.BAS      'To copy a file without using SHELL "COPY..."
+CURDRIVE.BAS  'Get current drive and directory
+DIR$.BAS      'Adds BASIC 7 PDS's DIR$ function to QB.
+DISKREAD.BAS  'Collectin of subs for reading disks/drives
+DRIVLABL.BAS  ' Gets and/or Sets the disk volume label
+ENCRYPT.BAS   'encrypt text strings and data files
+ENVFIND.BAS   'Find the master DOS environment strings
+EXISTS.BAS    'Checks to see if a file exists
+FILEATTR.BAS  'Routine For Setting The File's Attribute
+FULLDIR.BAS   'displays full directory info on files
+GRAPHDO.BAS   'display percentage done and graph of a file read/wrtitten/processed
+SPEEDRD.BAS   'Very fast way to read a text file
+
+subs\GETS        
+
+CHKANSI.BAS   ' See if Ansi available
+CHKCHAR.BAS   'find contents of screen at given location
+CHKCLRAT.BAS  'Get the colour attributes of a character
+CHKCOLOR.BAS  'Get the original R,G,B color values from a VGA
+CHKCURSR.BAS  'Get the real cursor position from BIOS
+CHKFLOPY.BAS  'checks on floppy drives for errors
+CHKKEY.BAS    'determines multiple key presses
+CHKPRINT.BAS  'Finds if the printer is ready
+CHKPROG.BAS   'gets name of program running and it's command line
+CHKVIDEO.BAS  ' determines video adapter installed
+DISCAD.BAS    'Turn on trapping of Ctrl+Alt+Del:
+DISCTRLC.BAS  'Toggle the switching of the use of the CTRL-C, CTRL-Break key
+DISKEYB.BAS   'disables/enables the keyboard
+DISPRTSC.BAS  'disable/enable the PrintScreen key
+ENABLCAP.BAS  'Use to turn on Caps Lock before input
+GETCOMLN.BAS  'preserves the command line in it's original case
+GETDV.BAS     'Detect Desqview Multi-Tasker & return version number
+GETMEM.BAS    'find base memory, extenden memory, available memory
+GETPSP.BAS    'displays Program Segment Prefix info
+GETSYSID.BAS  'Gets the ROM date and System ID
+
+subs\GRAPHICS    
+
+3D.BAS        'Do 3D animation
+3DGRAPHS.BAS  'Draw graphs and pie-charts in 3D Graphics ***
+ADDGFX-1.BAS  'Save and append a graphic to an .EXE file
+ADDGFX-2.BAS  'loads graphic that is appended to an .EXE  
+ANIMATE.BAS   'Animation routine for movement
+ANIMSPED.BAS  'calculates computer speed for animation
+BOUNCE.BAS    'Interesting animation routine
+CURPATCH.BAS  'Program will make a cursor available in the graphic modes.   
+DISPPCX.BAS   'display a .PCX
+DISPPCX2.BAS  ' Loads mode 9 (EGA) and mode 12 (VGA) .PCX
+FADE13-1.BAS  'fade screen in VGA mode 13
+FADE13-2.BAS  'part 2 of fading screen 13
+FADEVGA.BAS   'fade a color in VGA mode
+GRAPPRNT.BAS  'Print text on any color BG while in graphic mode
+GRAPTEXT.BAS  'display text on multiple colored bg in EGA/VGA
+LOADGIF.BAS   'display a .GIF file
+MAKGIF.BAS    'this creates a .ZIP file that has .GIF display routines
+MAKGRAFX.BAS  'Saves/loads graphic to disk using print/input
+PANSCRN.BAS   'pan an EGA/VGA screen
+PATTERNS.BAS  'code for a variety of patterns-Awesome!
+SAVESCRN.BAS  'save/load a screen to/from disk in EGA/VGA
+SAVPAL.BAS    'Code to save the VGA palette
+SPECALFX.BAS  'Demo of special effects
+
+subs\MISC        
+
+3DWINDOW.BAS  'create screens with 3D windows/buttons
+ANSIFIX.BAS   'Fix for Scrolling bug when ANSI.SYS is installed
+BAKINKEY.BAS  'An INKEY$ routine for input. Allows backspace
+BOOT.BAS      'performs a warm boot
+CALENDAR.BAS  'Draws 6 month calendar
+CENTRTEX.BAS  'centers a string on the screen
+CIRCLBOX.BAS  'finds largest box to fit in a curcle
+CLEARKB.BAS   'Clears keyboard buffer
+CLEARSCN.BAS  'neat way to clear the screen by tearing
+CLOKTICK.BAS  'Replacement for QB's TIMER
+CREDIT.BAS    'checks if a credit card is valid
+DATESUBS.BAS  'Anything to do with Date manipulation is here.
+DECBIN.BAS    'converts Binary to Decimal and vice versa
+DECTOHEX.BAS  'converts a deci-number to hex
+DELAY.BAS     'add a delay that works past midnight
+EDITOR.BAS    'Edit a text string using PgeUP/PgeDWN/End/Home/BackSpace/DEL
+ERRLEVEL.BAS  'Returns errorlevel from the last shelled program
+FASTSAVE.BAS  'Patch to Change Text (Fast Save/Load) in QB 4.5
+FONTS.BAS     '4 different fonts: LCD numbers, Large Letters, Small letters, Letter shadows
+FONTSYS.OBJ   'use the 3 system fonts in your programs
+LGMUSIC.BAS   
+LIBPATCH.DOC  'patches for QB4.5 and PDS. Upgrade to QB 5.0
+MAKWINDO.BAS  'Draws text windows and boxes
+MENUBAR.BAS   'Prints menu bar with highlited options
+MOUSESUB.BAS  'All the mouse routines you need
+MUSIC.BAS     'Over 300 songs and sound FX's
+MUSICLST      'data file for MUSIC.BAS   
+PARSECL.BAS   'Parses the command line into an array
+PRNTSCRN.BAS  'use PrntScrn key from your program instead of keyboard
+PROGSHEL.BAS  'this is a shell for a program.
+RESTRSCR.BAS  'restores a users computer to its original state
+SCROL.BAS     'scrolls what's on the screen
+SCROLLQB.BAS  'Scroll a window without using INTERRUPTs
+SCROLTXT.BAS  'scrolls an array on the screen
+SHELL.BAS     'Shell and automatically return to orig dir
+SHUFLCRD.BAS  'shuffles and displays deck of cards
+SORT-QWK.BAS  'Quick sort routine
+SORT.BAS      'another sorting routine
+SPFX.BAS      'collection of sound effects
+STRING.BAS    'unlimited string space in QB.45
+TEXTSAVE.BAS  'patch to change QB SAVE option, to ASCII only
+TEXTSCRN.BAS  'How to save and restore a text screen
+VIDEO.BAS     'write to video buffer for a faster text display
+VIDEOMEM.BAS  'Write to video memory/make intense BG
+VSLIDER.BAS   'draw vertical Slide bar
+
+Total subs\functions:  109 
