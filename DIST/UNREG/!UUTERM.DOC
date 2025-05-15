@@ -1,0 +1,537 @@
+                              UUTERM
+                            VERSION 3.0
+        Copyright 1995 by Will Boyett - All rights Reserved
+
+
+*WARNING*     You will need the following to properly run UUTERM:
+                     EGA or better graphic card
+                          DOS 3.3 or later
+                     450K of conventional memory
+*************************************************************************
+
+                      DISCLAIMER OF WARRANTY
+
+THIS SOFTWARE IS SOLD "AS IS" AND WITHOUT WARRANTIES AS TO PERFORMANCE OF
+MERCHANTABILITY OR ANY OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED.
+BECAUSE OF THE VARIOUS HARDWARE AND SOFTWARE ENVIRONMENTS INTO WHICH THIS
+PROGRAM MAY BE PUT, NO WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE IS
+OFFERED. 
+
+*************************************************************************
+How To Register UUTERM  (please use Order.Frm to register)
+
+If you like what you see here and are a serious UU player who wants real
+power, then please support the development of UUTERM. All monies
+received will go right back into creating a better program with more of
+the features you want (just send what you want and I'll try to put it in). 
+As you can see, UUTERM is making a major step forward, to the Ultimate
+utility. Combining on-line use as a term program, and also off-line as a
+stand-alone offline utility.
+
+*************************************************************************
+What is UUTERM
+
+UUTERM is an off-line utility for strategy mapping.
+UUTERM is a terminal program designed specifically for use in playing
+Ultimate Universe the popular BBS door game.
+
+The advantage of using UUTERM is that it is custom designed just for
+playing the game. Thus you have a lot of features that your normal
+term program like Telemate or QModem can't offer.
+
+Not only that, it also helps to add to the realism of the game. UUTERM
+is designed with 3D graphics, and arranged to give the appearance of an
+actual ships console. Thus you feel like you are really at the helm of
+your vessel as you travel through space.
+
+I have a lot more ideas to implement to make UUTERM an even better tool for
+playing UU. If you don't want to miss out on more features and excitement
+then please register today!
+
+***************************************************************************
+To run UUTERM take  the following steps:
+
+There are 3 ways to use UUTERM:
+
+1) Offline. UUTERM can be run offline for various things. To start UUTERM
+offline, just type: UUTERM. When asked if you want to dial a BBS, choose
+NO. That's it.
+
+2) You can use UUTERM to dial into a BBS. Again, type: UUTERM. Choose
+YES when asked if you want to dial a BBS. Once online, go into UU and play.
+
+3) If you need to use your comm program for logging onto the BBS (in case
+you want/need to do other things on-line like file transfers, etc..), you
+can always Exit/Shell from your comm program (make sure not to drop
+carrier) and then start UUTERM. Just make sure to answer NO when asked if
+you want to dial a BBS (no need to dial since you are already online).
+
+When using this method, make sure your comm program connects to the BBS
+at the same settings you have configured in UUTERM. Simply go to UUTERM's
+F8 menu (do this offline). Jot down the modem settings (baud, port,
+handshaking, etc), and set your comm program to use the same settings.
+
+Then call your BBS with your comm program. Do your e-mail, file transfers,
+etc.. When ready to play UU, exit your comm without dropping carrier
+(if you are shelling, you should set your comm program to swap itself to
+XMS/EMS), start UUTERM. Play UU.
+
+When done playing you can log off the BBS while in UUTERM, or exit UUTERM
+and return to your comm program.
+
+If you decide that after playing UU, you need to get back in your comm
+program, you can do so without having to redial the BBS. Simply exit
+UUTERM and start your comm program WITHOUT sending the modem init string.
+In Telemate, you would use the /O switch to do this.
+
+Example: You logged onto the BBS with UUTERM. Now your done playing
+         and you want to d/l some files. Naturally you'll need your comm
+         program to do the file transfers. So after playing UU, exit 
+         UUTERM, go to your Telemate directory and start Telemate by
+         typing: TM /O
+         Bingo.. you still online and now your comm program is in control.
+
+***************************************************************************
+Files created and/or used by UUTERM  
+  (A "*" denotes a file used in the registered version only)
+
+UUTERM.EXE    the terminal program.
+SETUP.EXE     utility to help you configure/maintain a dialing list
+.GFX          UUTERM's graphic files
+.SND          UUTERM's sound files
+
+!UUTERM.DOC   term documentation, also used by UUTERM's on-line help
+!WHATS.NEW    latest changes to UUTERM
+!ORDER.FRM    easy to use registration form
+FILE_ID.DIZ   use this to describe UUTERM when u/l to a BBS
+
+UUTERM.CFG    your configuration file created by UUTERM.
+UUTDIAL.CFG   holds modem strings and your dial list.
+MACROS.UUT    text file that contains your editable macros.
+UTILITY.UUT   contains the configuration of utility(s) to run.
+.MAC files    text files for use by UUTERM to run large macros
+              (80 characters per line and up to 10 lines)
+
+*CABAL.LST    text file listing the Cabal you have found. 
+*PLANET.LST   text file listing the planets you have found.
+*.POR         listing of the best ports for trading, planets, selling
+ .LOG         capture files of your playing sessions.
+
+TIP: If you play in more than 1 UU game, you may want to
+     create a separate directory of files for each game you play in.
+
+***************************************************************************
+How to use UUTERM 
+
+Previously I explained how to start UUTERM and how to correct any
+problems when running it. So this section will focus on the features
+in UUTERM and how to use them to your best advantage.
+
+   ------------------   Summary of UUTERM Keys   -----------------------
+       ("*" denotes a feature only found in the registered version)
+
+    *<ALT> P  Port Locater/Scanner          F1   View Files
+                                            F2   Set Alarm
+     <ALT> W  Recorder                      F3   Toggle Capture File
+                                            F4   Display Ships Device Bays
+    *<ALT> C  Cabal Manager                 F5   Display Ship's Inventory
+     <ALT> Z  Toggle UUTERM Display         F6   Explore Sectors
+                                            F7   Macro Menu
+     <ALT> X  Exit UUTERM                   F8   Config Menu
+                                            F9   Shell To Dos
+    *<ALT> F  Flea Market Scanner           F10  Utility Menu
+
+       ---------------------------------------------------------------------
+
+             >>>>>>>>>>>  F1 - VIEW FILES   <<<<<<<<<<<<
+
+Selecting this feature allows you to view 3 type of files.
+
+1) Help. Displays the icons and what each one represents. Those enclosed
+   within the red box are those reserved for registered users.
+
+2) Scrollback Buffer. Use this to view lines that have already scrolled
+   off the screen. Buffer is configured by default for 140 lines.
+
+3) Text File. With this you can view any text file in the current
+   directory. 
+
+             >>>>>>>>>>>  F2 - SET ALARM  <<<<<<<<<<<<
+
+Don't be caught in space defenseless. This handy feature can be
+programmed to sound an alarm when time is about to expire.
+
+Simply find out how much time you have left (hit IS or use TIME AWARE if
+have one), then push F2. Here you will prompted as to how long to play
+before being warned. (Example: You want the alarm to sound 4 minutes
+before time expiration. If you have 34 minutes left, then you want to be warned
+in 30 minutes. Enter 30 at the prompt).
+
+Once the alarm is set, it can not be turned off. Thus you won't make a
+mistake and accidently turn it off. However, (if for some reason you
+need to) there is a way to bypass the alarms circuitry and thus force
+it to not go off. Simply enter a time longer than you have to play.
+Thus it will never reach it.
+
+Once the alarm has been activated, and you need to reset the alarm time,
+simply hit F2 again and enter a new time.
+
+                  >>>>>>>   F3 - STARLOG   <<<<<<<<<
+
+Use this to open and close a capture file. Each time you open a capture
+file you can add a distinctive name to it. The file is then given an
+extension of .LOG automatically.
+
+This is real helpful in recording your playing session. You can also use it
+to save just portions of a playing session. For instance, start one
+called NEWS.LOG that will contain just the news you read. Another called
+PLANET.LOG that contains info on your planets.
+
+If the file you specify already exists, you will be given the choice to
+overwrite (create a new file) or append (add to existing file) to the
+existing file.
+
+               >>>>>>>>  F4 - SHIPS BAYS  <<<<<<<<<<<
+
+This option will display what's in your ships device bays. UUTERM gets
+this info when you run the "U" command from UU's main prompt. To update
+the Ships Bays screen you will also need to run the "U" command again.
+
+This won't keep you from using UU's "U" command entirely, but you should be
+able to cut down on it's use about 50% of the time. Thus saving you some
+time.
+
+You can also use your devices right from UUTERM's Ships Bays screen.
+
+               >>>>>>>>  F5 - SHIP INVENTORY  <<<<<<<<<<
+
+This feature uses the IS command to diaplay your ships inventory. Must be
+at UU's main command prompt for it to work.
+
+              >>>>>>>>  F6 - EXPLORE SECTORS  <<<<<<<<<<
+    To use this feature, you will need the SECTOR FINDER PACK (#168)
+
+When you choose to run this UUTERM feature, you will be asked 3 questions:
+
+1) Manual or Automatic mode.
+2) the sector you want to start at
+3) how many times or turns do you want to program it for before you will
+   be asked to reprogram it.
+
+Let's examine each of these prompts in more detail so you can understand
+the real usefulness of this feature.
+
+1) Manual or Automatic mode.
+   In manual mode you will need to push F6 for each path you wish to
+   scan. With automatic mode you won't need to keep pressing F6, all paths
+   to be scanned are run all at once.
+
+   Automatic mode also offers an extra advantage. When done exploring you
+   are asked if you want to save to disk all info on found Cabal and
+   planets.
+
+   In manual mode you can still save this info to disk but you'll
+   have to do it yourself manually by opening a .LOG file (F3) before
+   running F6 in manual mode, then scanning that .LOG file after done with
+   manual exploration. You can scan it by running ALT-C (Find Cabal).
+
+2) What sector to start at. 
+    Specify here a starting sector of your exploration. You can specify
+    any sector of the universe. When the exploration feature starts, it
+    will plot and scan paths from the sector you are currently in to
+    the sector you specified here and all following sectors.
+
+    Thus in one playing session.. you could explore sector 100 thru 200,
+    then in the next session, specify 201 here and you will pick up from
+    where you left off last session.
+
+    UUTERM has a window on the display screen, called LAST. This shows the
+    last sector explored. The next time you program the F6 feature, you'll
+    know where you left off.
+
+3) How many turns.
+    This prompt asks how many times you want to program your explore for.
+    Each time uses one turn. So by specifying 100, you will be allowed
+    to plot 100 paths for exploration before being asked to reprogram this
+    feature.
+    
+    Warning though, you can't reprogram the F6 option again until you
+    have used up the number of turns being specified here. So use smaller
+    numbers here if you don't want to be locked into lots of exploration.
+    You can always add more later but never take away.
+
+NOTE: 
+
+This feature increments the explored sector by 2. This means the
+destination sector of your exploration will be advanced 2 sectors from the
+last one explored. In other words, you explore every other sector. However,
+you'll probably pass thru the other half also during your exploration.
+Thus you don't need to waste turns by plotting paths to all sectors.
+
+Example: Start at sector 20 for 10 turns.
+
+         This feature then plots a path from your current sector to sector
+         20. If you specified manual mode, then you need to press F6 again
+         to plot/scan the next path. If in automatic you don't need to
+         press F6.
+
+         The next path wil be incremented by 2. So it plots a path from
+         your current sector to sector 22. Then to sector 24, then 26, etc.
+
+         As it plots the paths it also scans them and reports all findings.
+         Why it's wise to start a capture file before running this feature.
+
+                >>>>>>>>  F7 - MACRO MENU  <<<<<<<<<<
+
+This option allows you to program up to 20 macros that you can use while
+on-line. You can create/edit/delete macros and descriptions, on-line or off.
+
+UUTERM can run two types of macros:
+
+1) .MAC files.  This is a text file with an extension of .MAC. This file
+   can hold 10 lines of 80 characters each, or 800 character total for
+   your macro. That's one huge macro capability. 
+
+   These macros can be created by you in a word processor/text editor.
+   There are also other UU utilities like UUDEVICE that create .MAC files
+   for easy buying of devices. UUTERM is compatible with these other
+   utilities and can run these .MAC files for you.
+
+2) The other type of macro is an editable macro. These are saved in a text
+   file called MACROS.UUT. You can create these macros off-line or while
+   on-line. 
+
+   Create these like you do in UU. Run them at anytime by pressing <ALT>
+   and the letter of the macro you want to run. Just like in UU but use
+   <ALT> instead of <CTRL>.
+
+Other possible uses could be to plan your moves off-line, create a text
+file that has the commands you want to execute when on-line, then use
+this to run the text file and automatically execute your moves.
+
+After you play with it, I'm sure you'll start coming up with all kinds of
+idea's for it's use.
+
+NOTE: This feature may not work at all times with large macros. I have
+      found that this feature is affected by the way the SYSOP has set up
+      UU. Some BBS's don't use a line wrap which can cause problems.
+      My advice is to use at your own risk. However to ensure success, you
+      may have to break a large macro into 2 or more macros.
+
+There is a special "FLIP" button that adds for toggling between macro and
+description. To add a description just type it in as you would a macro.
+
+If you would like to create the MACROS.UUT file off-line in a word processor
+the format is as follows:
+
+1) Add a "'" to the beginning of the description line
+2) put the description line above the macro line
+
+Not all macros need to be described.
+Here are some examples of proper format:
+
+EXAMPLE 1 (both macros described):
+
+'this macro does todays news when at the Main prompt
+C;N:1
+'moves to sector 10 from sector 1
+M;9;M;10
+
+EXAMPLE 2 (only second macro described):
+
+C;N;1
+'moves to sector 10 from sector 1
+M;9;M;10
+V;235;V;171;1;1%
+
+If all this is confusing to you, then create your macros and descriptions
+in UUTERM. Then Exit UUTERM or Shell to DOS and examine the MACROS.UUT file
+to see the format it is created in.
+
+               >>>>>>>>   F8 - CONFIG MENU   <<<<<<<<<<<
+
+Used for setting your modem configuration, size of scrollback buffer,
+if sound should be on or off, and more.
+
+               >>>>>>>>  F10 - UTILITY MENU  <<<<<<<<<<<
+
+This menu allows you to run other programs while on-line. These programs
+can be on any drive and in any directory you specify (as long as it is
+valid). This is most useful for running 3rd party utilities for UU, but
+you can also use it to run any piece of software.
+
+If the file is in the current directory all you need do is enter the name
+of the program to run along with any command line parameters it uses.
+If the file is on another drive or in another directory, then you will
+need to enter the full path also.
+
+Example: Suppose you want to run UUDEVICE which is in another directory
+you would enter something like...
+
+C:\com\uudev\uudevice
+
+Now, no matter where UUTERM is being run from, you have access to it.
+
+Should UUTERM not locate the file, an error message will be displayed.
+However should it exist and you attempt to run it, but it doesn't work,
+then chances are you don't have enough memory for the other utility to run.
+UUTERM can not check for this since it has no way of knowing memory
+requirements for all the utilities out there.
+
+TIP: You can also use this feature to run DOS commands (much easier then
+     shelling to DOS).
+
+               >>>>>>>>  <ALT> Z - TOGGLE DISPLAY  <<<<<<<<<<<
+
+This option allows for elimination of UUTERM's graphic screen.
+
+               >>>>>>>>  <ALT> P - PORT FIND  <<<<<<<<<<<
+                      (Registered version only)
+
+This feature finds ports that sell all (great for starting a planet), ports
+that buy all (great for unloading excess commodities from a planet), and
+the best ports for trading. (this is the same thing as my UUPORT utility)
+
+To gather this info, UUTERM needs a text file to scan. Simply go to sector
+8. Dock at the port, then start a capture file of the port report. UUTERM
+can work with either the Personal or Computer format.
+
+All info on the best ports is saved to disk in a file with the extension of
+.POR. These best ports are appended to the .POR file, so there is no need
+to scan all the sectors at once.
+
+In fact I recommend only doing 1000-1500 sectors at a time. The reason being
+UUTERM has no way of knowing how large your universe is. So I've only set
+aside enough memory to handle about 1500 sectors at a time. I think you
+will find this more than plenty. And remember, you can always go back and
+do another 1500 sectors if need be. All info from a current and previous
+scan is saved in the .POR file for viewing at any time.
+
+               >>>>>>>>  <ALT> F - FLEA FIND  <<<<<<<<<<<
+                      (Registered version only)
+
+This baby I truly like, especially so in games where there is 150 or more
+devices at the Flea Market. Why pay full price? Get 2-3 times as many
+drones, mines, etc.. for your money.
+
+Before you can run this feature, you need to get a listing of what is
+available at the Flea Market.
+
+Go to sector 6 and port. Then start a capture file called FLEA.LOG or
+whatever. Then view the entire market listing, when done close the capture
+file. Now you can search the flea market at any time, and get a listing
+of the devices you want at the lowest prices. Why pay full price for drones,
+mines, and other items?
+
+When asked for a text string to search for, keep in mind these points. Your
+text string must be greater than one character in length. Also the search
+is case sensitive. So if you want to look for drones, enter "Drones", not
+"drone". Of course if you don't like the extra hassle of entering a capital
+letter, then search for drones using "rones".
+
+               >>>>>>>>  <ALT> W - RECORDER  <<<<<<<<<<<
+
+This baby is like the black box in an airplane. It records your every move.
+This feature comes in handy when working off-line. As you may have noticed,
+to run many of the registered features you need to open and close capture
+files while playing. So how do you create a capture file of your entire
+session then? Simply by starting this while on-line. Then when off-line
+you can replay your entire session and capture it then (in case you need
+one for UUSCAN or some other utility).
+
+Also handy in reviewing mistakes you may have made, or reviewing something
+you may have missed. Or perhaps to give to a teammate so he can gather info
+from your playing session.
+
+When running this off-line you can push the <PAUSE> key to temporarily halt
+the display.
+
+One word of caution though. This feature requires lot's of free disk space
+for saving your playing session. Probably about 300-400K per 30 minutes of
+play at 2400 baud. (Don't be concerned about size if you want to u/l to a
+teammate. Since it is a text file, a 1 hour session will PKZIP to about
+50K.)
+
+            >>>>>>>>  <ALT> C - CABAL MANAGER  <<<<<<<<<<<
+                      (Registered version only)
+
+This key performs two functions. Scans a capture file for any Cabal drones
+and saves the info to disk in a file called CABAL.LST. This can be run on
+or off-line. Then if you like you can have it report the Cabal for you.
+
+BONUS: while it scans the .LOG for Cabal, it'll also keep an eye out for
+       any planets found and save them in PLANET.LST
+
+NOTE:
+If you want it to report, then you must either port in sector 5, or start
+your EECC calling device (this device can be purchased separately in UU or
+found in the Cabal Invasion Pack, Starter Pack, Fed Pack, etc..).
+When you are at the ports prompt, then start your reporting.
+
+If you report all the Cabal in your list (Cabal.Lst) then your list is
+automatically erased from disk. If you report only a portion, then only
+those reported are deleted from Cabal.Lst.
+
+TIP #1: If you are running a capture file while you play and then scan it
+     for Cabal, then report. Then do it again 20 minutes later on your now 
+     larger capture file. You'll find that in many instances you'll be
+     reporting the same Cabal over. 
+
+     To work around this, you may only want to report at the end of your
+     session. But if you find you must report more than once in a playing
+     session (in case you need the credits right away), I recommend you
+     start a capture file before you do your exploring, then turn it off
+     before you do the reporting. When done reporting, start another
+     capture file for the next reporting session. In this manner, you
+     should be able to reduce the number of duplicate reports.
+
+TIP #2: If you press ALT-C by mistake and really don't want to report/scan
+     for Cabal, then just press <ENTER> to escape.
+
+TIP #3: Sometimes you may wish to save CABAL.LST for later perusal. I handle
+     this in the following manner: 1) I created a .BAT file that copies
+     CABAL.LST to another directory. 2) In UUTERM's Utility Menu I run the
+     .BAT file. In this manner I can save my lists anywhere I want all at
+     the push of a button.
+
+***************************************************************************
+If the program doesn't work
+
+If you have trouble getting this program to run  properly,  check this
+document. Chances are you will find information to help you there.
+If you can't find the solution to your problem in the document feel free
+to contact me at the places listed below. 
+
+   VOICE: (310) 924-4184 
+    MAIL: 11955 209th St, Lakewood, CA 90715
+  FORUMS: UU conference on RIME
+INTERNET: wboyett@annex.com
+  TELNET: 204.74.67.1
+
+ SUPPORT BBS: 1-213-227-7127 or 1-213-221-0172
+              Set up your own account or use the special guest account.
+              To use guest account, when asked for your name, type:
+                            *will boy software
+
+***************************************************************************
+Special Thanks To:
+
+I would like to take this space and thank all the folks who helped in the
+development of UUTERM.
+
+1) Thanks go out to Nathan Haines for his beta-testing.
+2) Special thanks to Alan Dietrich, Sysop of Target Range BBS for his
+   permission to debug UUTERM on his BBS.
+3) Thanks to the users of UUTERM for their support.
+4) And Thanks to all the BBS's that help distribute UUTERM to the public.
+5) Thanks to Garth Bigelow for his game of UU.
+
+*************************************************************************
+
+That's all there is to it. Happy hunting, and I hope it helps add to your
+personal arsenal of tools for Ultimate Universe. If you should have
+any suggestions or ideas about UUTERM, or if you find a bug drop me a line.
+
+Will Boyett
+Author of such great game utilities such as:
+UUDEVICE, TWTERM, UUTERM, TermTA

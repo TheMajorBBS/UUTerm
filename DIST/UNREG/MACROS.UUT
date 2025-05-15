@@ -1,0 +1,22 @@
+'Place Item in the Flea Market
+p;p;z
+
+'Gets location of Cabal and scans Cabal for strength  (Need: 161,21)
+v;161;2;q;v;21
+'Flips HyperCube - must be in bay 1                   (Need: 472)
+u;1;y;q;u
+
+
+'Need Trading Pack. Planet Stuffer
+p;u;4;y;p;u;4;y
+
+'Drops 100 fighters and 1 mine in a sector
+F;100;1;Q;D;1;Q
+
+
+
+
+'Juxtapose Bays
+j;%1;%1;idp
+'strip meanderer
+v;171;3;%1
