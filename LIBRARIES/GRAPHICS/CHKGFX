@@ -1,0 +1,40 @@
+===========================================================================
+ BBS: The French Flyer
+Date: 04-05-94 (09:32)             Number: 6952
+From: MATT HART                    Refer#: NONE
+  To: DON KNIGHT                    Recvd: NO  
+Subj: Grafix printing...             Conf: (69) QBasicLang
+---------------------------------------------------------------------------
+DK>As long as I load DOS GRAPHICS before going into QBX, then
+DK>Shift-Prt Screen outputs it to my 24 pin printer and it
+DK>looks great.
+
+DK>Now, how the heck do I get it to print from within the
+DK>program?  This is the first time I've tried doing anything
+
+You can check if GRAPHICS.COM is installed by calling Int 2Fh, Function
+15h.  AX will return FFFFh if it is.  Then you can call the Print Screen
+routine at Int 5.
+
+'$INCLUDE:'QB.BI'
+DIM InRegs AS RegTypeX
+DIM OutRegs AS RegTypeX
+InRegs.AX = &H1500
+CALL InterruptX(&H2F, InRegs, OutRegs)
+IF OutRegs.AX AND &HFFFF THEN
+     PRINT "Installed"
+     ' pause
+     GOSUB DoGraphics
+     ' also, check for a Print Screen busy:
+     DEF SEG = &H50 : DO WHILE PEEK(0) : LOOP : DEF SEG
+     CALL InterruptX(5,InRegs,OutRegs)
+ELSE
+        PRINT "Not installed"
+ENDIF
+
+
+Matt Hart
+05  FLYERBBS (#1867) : RelayNet(tm)
+---
+ * The Ham Radio Emporium 918-272-4327
+ * PostLink(tm) v1.11  EMPORIUM (#1101) : RelayNet(tm)

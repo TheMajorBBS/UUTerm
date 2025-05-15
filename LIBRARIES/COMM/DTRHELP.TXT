@@ -1,0 +1,89 @@
+     '3 ways to not drop carrier when exiting QB
+     Here are 3 of the methods I've collected off the QB conferences for
+     keeping QB from hanging up in door programs.
+
+ Method #1:  (Courtesy of Tom Hanlin)
+     First and foremost make these changes to a COPY of your QB master
+     disks. * * * DO NOT DO THIS TO YOUR QB MASTER DISK(S) FILES! * * *
+     You need to patch the BCOM45.LIB file.
+
+     Search for the following byte string:
+     B0 00 E3 01 40 83 C2 04 EE
+
+     Replace with the following byte string:
+     B0 00 90 90 40 83 C2 04 EE
+
+    "Be advised if you install the above patch you will need to drop
+     the DTR manually if you want it lowered."
+
+Method #2: (Like# 1 above but with details on how to do it. Courtesy of-
+            Kenny Gardner)
+     Before beginning MAKE SURE you are working on a BACKUP copy of
+     QuickBASIC - NOT YOUR MASTER DISKS.
+     With DEBUG in your DOS path type:
+     Debug BCOM45.LIB
+     You type :
+     s cs:0 ffff b0 00 e3 01
+     Debug should show :
+     xxxx:1529
+     where xxxx can be any number depending upon where Debug loaded the
+     program in memory. In any case, the number is not important.
+     You type :
+     u 1529
+     Debug should show :
+     MOV AL, 0
+     JCXZ 152E
+     INC AX
+     ADD DX, 4
+     OUT DX, AL
+     This is where QB graciously resets the comm port to parameters it
+     thinks the comm port should have.
+     To fix the problem, type :
+     a 1529
+     MOV AL, 1
+     [ENTER]
+     a 152d
+     NOP
+     [ENTER]
+     where [ENTER] is the ENTER key - Do not type the characters!
+     To verify that you typed everything correctly, type :
+     u 1529
+     Debug should show :
+     MOV AL, 1
+     JCXZ 152E
+     NOP
+     ADD DX, 4
+     OUT DX, AL
+     To save the corrections type :
+     W
+     Debug should show :
+     Writing 35EF7 bytes
+     Now type  Q  and you are finished patching BCOM45.LIB
+
+Method #3:
+
+     (Courtesy of John Gallas via FidoNet QuickBASIC conference)
+
+     This isn't a patch, but reportedly "the following routine when
+     used right after CLOSEing the COM port will bump the DTR right
+     back up and the modem won't even notice it was down."
+
+     DECLARE SUB SetDTR (Setting)
+DEFINT A-Z
+
+     Of the above 3 methods I would choose #1 (Tom Hanlin's) although
+     it assumes you know what you're doing. Hope that helps.
+                                               - Robert Fortune
+---
+
+     SUB SetDTR (Setting%)
+     ' For COM1 the address is  &H3F8. For COM2 it is &H2F8.
+     ' Setting% = True then DTR is raised
+     ' Setting% = False then DTR is lowered
+     PortAddress = &H3F8                     ' com port 1 example
+     IF Setting% THEN
+        OUT PortAddress + 4, INP(PortAddress + 4) OR 1
+     ELSE
+        OUT PortAddress + 4, INP(PortAddress + 4) AND &HFE
+     END SUB
+
