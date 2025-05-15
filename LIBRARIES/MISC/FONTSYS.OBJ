@@ -1,0 +1,81 @@
+'use the 3 system fonts in your programs
+1) Cut out this .BAS file, load into QB and run it. It will create an
+.OBJ file in the current directory.
+*******************************< cut here
+
+DEFINT A-Z
+RESTORE
+OPEN "FONTS.obj" FOR BINARY AS #1
+WB$ = ""
+
+FOR x = 1 TO 220
+    READ a$
+    a$ = "&H" + a$: V = VAL(a$): WB$ = WB$ + CHR$(V)
+NEXT
+PUT #1, , WB$
+CLOSE
+
+DATA 80,9,0,7,46,4E,53,59,53,58,58,2D,96,14,0,0,4,43,4F,44,45,0C,46,4E
+DATA 53,59,53,58,58,5F,54,45,58,54,44,98,7,0,48,4A,0,3,2,1,C9,A0,4E,0
+DATA 1,0,0,B8,0,1A,CD,10,3C,1A,B7,06,2E,C6,6,0,0,10,74,12,B7,2,2E,C6
+DATA 6,0,0,E,EB,8,B7,3,2E,C6,6,0,0,8,55,B8,30,11,CD,10,8B,D5,5D,1E,2B,C0
+DATA 8E,D8,2E,8B,E,0,0,89,E,85,4,BF,C,1,89,15,8C,45,2,8B,C2,8C,C2,1F,CB
+DATA 0,0,4F,9C,1D,0,C4,C,0,1,1,48,0,C4,16,0,1,1,48,0,C4,20,0,1,1,48,0
+DATA C4,34,0,1,1,48,0,99,90,10,0,0,1,9,46,4F,4E,54,53,59,53,30,38,1B,0,0
+DATA 9D,90,10,0,0,1,9,46,4F,4E,54,53,59,53,31,34,11,0,0,AA,90,10,0,0
+DATA 1,9,46,4F,4E,54,53,59,53,31,36,0,0,0,B9,8A,2,0,0,74
+
+********************************** < cut here
+
+2)  Now that you the .OBJ file you need to turn it into a .LIB file for
+    compiling and a .QLB file to use the fonts in QB. The following
+    commands will do that...
+
+    a) Type "LIB" to run QB's library manager (to make a .LIB file).
+         At the LIBRARY prompt, type:  FONTS.LIB
+         When asked to create a new file, type:  Y
+         At the OPERATION prompt, type:  +fonts.obj
+         At the LISTING prompt, just press <ENTER>
+
+       Bingo! You now have FONTS.LIB
+
+    b) To make a .QLB from the .LIB file, type:
+         "LINK /QU FONTS.LIB, FONTS.QLB,, BQLB45.LIB
+
+       If QB's BQLB45.LIB file is not in the current directory then
+       don't forget to add a path to it in the above command.
+
+    c) Type "DEL *.OBJ"
+       Type "DEL *.MAP"
+          Erases the extra files that are no longer needed.
+
+3) If all has gone well you should now have a FONTS.LIB and a
+   FONTS.QLB. (FONTS.LIB can be added to any other library you are
+   currently using)
+
+   If you would like to test it out and see if it works. Make sure the
+   Fonts.QLB is in the same directory as QB. Then type:  QB /L Fonts
+
+   QB will start and load the fonts library. Use the following
+   code as a test that all works..
+
+************************** < cut here
+
+DECLARE SUB FONTSYS08 ()
+DECLARE SUB FONTSYS14 ()
+DECLARE SUB FONTSYS16 ()
+
+SCREEN 9     'or whatever screen mode you want
+FONTSYS08
+PRINT " Any print statements that"
+FONTSYS14
+PRINT " follow the command will be "
+FONTSYS16
+PRINT " displayed in that size."
+SLEEP
+END
+
+************************** < cut here
+---
+ þ SLMR 2.1a þ Can you still know nothing, if you don't know anything?
+

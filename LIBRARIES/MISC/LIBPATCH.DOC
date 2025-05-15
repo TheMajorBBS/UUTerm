@@ -1,0 +1,75 @@
+'patches for QB4.5 and PDS. Upgrade to QB 5.0
+
+1) MAKE A BACKUP COPY of your BCOM45.LIB or whatever you plan to patch,
+just in case.
+
+2) Dig out your favorite debugger or disk editor.  Haven't got one?
+Pick up FED (File EDitor) or HEDIT (Hex Editor) at your local BBS.
+
+3) Install patches of choice.
+
+NOTE: The addresses shown below are the same on the above editors and
+the same for XTREE. However if you are using another editor then those
+just discussed, your addresses may or may not be the same.
+
+Can also use these for PDS. The addresses will be different, so search
+for the bytes involved instead of the addresses.
+----------------------------------------------------------------------
+The following are courtesy of Tom Hanlin.
+
+A) To prevent the COMMAND$ function from capitalizing the command line,
+SEEK: 3C 61 72 06 3C 7A 77 02 34 20
+MAKE: EB 08 90 90 90 90 90 90 90 90
+
+B) To prevent OPEN "COM..." from destroying the BIOS comm data area,
+SEEK: 1E 33 D2 8E DA 87 95 00 04 1F
+MAKE: 1E 33 D2 8E DA 8B 95 00 04 1F
+SEEK: 1E 33 D2 8E DA 89 9D 00 04 1F
+MAKE: 90 33 D2 90 90 90 90 90 90 90
+
+C} To prevent CLOSE or END from lowering the DTR on comm ports,
+SEEK: B0 00 E3 01 40 83 C2 04 EE
+MAKE: B0 00 90 90 40 83 C2 04 EE
+
+Be advised that if you install that last patch, you will need to drop
+the DTR manually if you want it lowered.
+-----------------------------------------------------------------
+The following is courtesy of Joe Paravatti
+
+A) Allows for multiple colored text backgrounds in EGA/VGA mode.
+
+File:  QB.EXE  (for QB 4.5)
+Memory Location       SEEK          MAKE
+   01D20F             76 03         EB 03
+   021A81             72 33         90 90
+   02231C             77 0D         90 90
+
+File:  BCOM45.LIB
+Memory Location       SEEK          MAKE
+   0096A8             72 33         90 90
+   00A256             76 03         EB 03
+   00BA71             77 0D         90 90
+
+B) Allows for a cursor in graphics mode
+
+File:  QB.EXE  (for QB 4.5)
+Memory Location       SEEK          MAKE
+   020ABC             75 1A A1      72 1A A1
+   020B8A             80 B0 DC      80 B0 ?? *(see below)
+
+File:  BCOM45.LIB
+Memory Location       SEEK          MAKE
+   018FF6             75 1A A1      72 1A A1
+   0190C4             80 B0 DC      80 B0 ?? *(see below)
+
+* The cursor shape is at this address. Change the byte containing DC
+only if you want to change the shape of the cursor. Your cursor can be
+any ASCII character you choose. The value (ASCII value in hexadecimal)
+is ONE more then the ASCII character.
+Example: The byte originally contains DC,(subtract 1 and actually DB
+is printed: Û ) I like char. 254 (FE þ ) so 255 (FF) should be put
+in place of DC.
+
+Use Locate ,,0 to turn cursor off, and Locate ,,1 to turn cursor on.
+-------------------------------------------------------------------
+Now that you do all this.. you'll have your own personal copy of QB 5.0
